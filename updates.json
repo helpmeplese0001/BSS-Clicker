@@ -44,7 +44,8 @@
       {"Type": "Text", "Text": "✨ What's New?? (05/30/2026) ✨", "Size": 24, "Bold": true},
       {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
       {"Type": "Image", "Title": "Full Egg Family Tree", "ImageID": "rbxassetid://122123173691440", "Description": "\"Full Egg Family Tree is here!\""}
-    ]
+    ],
+    "FooterText": "Enjoy the Update!"
   },
   {
     "Name": "Easter Part 3",
@@ -57,7 +58,8 @@
       {"Type": "Text", "Text": "✨ MAJOR UPDATE (05/16/2026) ✨", "Size": 24, "Bold": true},
       {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
       {"Type": "Image", "Title": "New Content Unlocked", "ImageID": "rbxassetid://0", "Description": "\"Take a look at the expansion elements added today!\""}
-    ]
+    ],
+    "FooterText": "Enjoy the Update!"
   },
   {
    "Name": "Bunny Merchant 🐰",
@@ -117,7 +119,8 @@
       {"Type": "Text", "Text": "📢 Notice", "Size": 18, "Bold": true},
       {"Type": "Text", "Text": "• More adjustments to the game performance! (it should feel smoother to play the game now!)", "Size": 15, "Bold": true},
       {"Type": "Text", "Text": "• Brand new updates and changes are coming your way soon!", "Size": 15, "Bold": true}
-    ]
+    ],
+    "FooterText": "Enjoy the Update!"
   },
   {
     "Name": "Easter Part 1",
@@ -164,7 +167,8 @@
       {"Type": "Text", "Text": "• Fixed an issue where Boosts were not expiring", "Size": 15},
       {"Type": "Text", "Text": "👀 Sneak Peek...","Size": 22,"Bold": true},
       {"Type": "Image", "Title": "What's coming next?!","ImageID": "rbxassetid://125170904914793","Description": "\"A mysterious new friend might be setting up shop soon... Stay tuned for Part 2!\""}
-    ]
+    ],
+    "FooterText": "Enjoy the Update!"
   },
   {
     "Name": "World 3 & Quests!",
@@ -239,7 +243,8 @@
         "ImageID": "rbxassetid://107678347314402",
         "Description": "\"Something colorful is hiding in the tall grass. Get your baskets ready for the Easter Event!\""
       }
-    ]
+    ],
+    "FooterText": "Enjoy the Update!"
   },
   {
     "Name": "Auto Rejoin Rework!",
@@ -262,7 +267,8 @@
       {"Type": "Text", "Text": "• Reverted lobby back to original. Thank you for participating the event", "Size": 16, "Bold": true},
       {"Type": "Text", "Text": "• Valentines reward will be given out in the next major update", "Size": 16, "Bold": true},
       {"Type": "Text", "Text": "We hope you enjoy this small update while waiting for something huge.", "Size": 16, "Bold": true}
-    ]
+    ],
+    "FooterText": "Enjoy the Update!"
   },
   {
     "Name": "Settings GUI & Name Tag",
@@ -325,7 +331,8 @@
         "ImageID": "rbxassetid://105258406309042",
         "Description": "\"We are changing from weekly update to bi-weekly update!\""
       }
-    ]
+    ],
+    "FooterText": "Enjoy the Update!"
   },
   {
     "Name": "Qol improvement",
@@ -342,7 +349,8 @@
         "ImageID": "rbxassetid://122434178239170",
         "Description": "\"The game rejoin automatically after you afk for a while.\""
       }
-    ]
+    ],
+    "FooterText": "Enjoy the Update!"
   },
   {
     "Name": "Lovely Harvest ❤️",
@@ -482,6 +490,7 @@
       {"Type": "Text", "Text": "✨ Happy Birthday to Spirit! today is his birthday (February 28th) ✨", "Size": 24, "Bold": true},
       {"Type": "Text", "Text": "✨ Also sorry for the late update! The update is larger than we anticipated! - Spirit & Omar ✨", "Size": 24, "Bold": true},
       {"Type": "Text", "Text": "✨ join the community server for leaks and when the next update is released! ✨", "Size": 24, "Bold": true}
-    ]
+    ],
+    "FooterText": "You have reached the first major update!"
   }
 ]
