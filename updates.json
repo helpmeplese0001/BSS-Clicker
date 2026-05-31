@@ -134,7 +134,7 @@
     "Color": [255, 255, 127],
     "BannerImage": "",
     "Changelog": [
-      {"Type": "Text", "Text": "✨ What's New? (03/15/2026) ✨", Size: 24, "Bold": true},
+      {"Type": "Text", "Text": "✨ What's New? (03/15/2026) ✨", "Size": 24, "Bold": true},
       {"Type": "Text", "Text": "• Add the portal effect & zone area for when teleporting to somewhere", "Size": 16, "Bold": true},
       {"Type": "Text", "Text": "• Fixed Shop prices & Nerfing seed price for early game", "Size": 16, "Bold": true},
       {"Type": "Text", "Text": "• Some items in the shop has been reduced in order to make room for next update!", "Size": 16, "Bold": true},
@@ -185,7 +185,7 @@
       {
         "Type": "Image",
         "Title": "Void is now easily accesible for everyone",
-        "ImageID = ": "rbxassetid://135770953851340",
+        "ImageID": "rbxassetid://135770953851340",
         "Description": "\"Nerfing the requirement from 1,000T (1Qa) -> 100B Total Eggs\""
       },
       {"Type": "Text", "Text": "We've decided to change this in order to make room for upcoming world 3", "Size": 18, "Bold": true},
