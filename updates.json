@@ -1,52 +1,98 @@
 [
   {
-    "Name": "Placeholder Update 4",
-    "Version": "Pre Alpha V.0.5a",
+    "Name": "Easter Finale",
+    "Version": "Pre Alpha V.0.4.2",
     "SortOrder": 9,
-    "Title": "New System Mechanics!",
+    "Title": "Bumble Bee Man is here!",
     "Color": [255, 85, 255],
-    "BannerImage": "",
+    "BannerImage": "rbxassetid://122123173691440",
     "Changelog": [
-      {"Type": "Text", "Text": "✨ UPDATE (06/15/2026) ✨", "Size": 24, "Bold": true},
+      {"Type": "Text", "Text": "✨ What's New?? (05/30/2026) ✨", "Size": 24, "Bold": true},
       {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
-      {"Type": "Image", "Title": "New Mechanics Showcase", "ImageID": "rbxassetid://0", "Description": "\"Details regarding the new mechanics implementation.\""}
+      {"Type": "Image", "Title": "Full Egg Family Tree", "ImageID": "rbxassetid://122123173691440", "Description": "\"Full Egg Family Tree is here!\""}
     ]
   },
   {
-    "Name": "Placeholder Update 3",
-    "Version": "Pre Alpha V.0.5",
+    "Name": "Easter Part 3",
+    "Version": "Pre Alpha V.0.4",
     "SortOrder": 8,
     "Title": "Major Content Drop!",
-    "Color": [85, 255, 127],
+    "Color": [255, 85, 255],
     "BannerImage": "",
     "Changelog": [
-      {"Type": "Text", "Text": "✨ MAJOR UPDATE (06/01/2026) ✨", "Size": 24, "Bold": true},
+      {"Type": "Text", "Text": "✨ MAJOR UPDATE (05/16/2026) ✨", "Size": 24, "Bold": true},
       {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
       {"Type": "Image", "Title": "New Content Unlocked", "ImageID": "rbxassetid://0", "Description": "\"Take a look at the expansion elements added today!\""}
     ]
   },
   {
-    "Name": "Placeholder Update 2",
-    "Version": "Pre Alpha V.0.4a",
-    "SortOrder": 7,
-    "Title": "Balance Changes & Optimizations",
-    "Color": [255, 170, 0],
-    "BannerImage": "",
+   "Name": "Easter Part 2",
+    "Version": "Pre Alpha V.0.3.8",
+    "SortOrder": 6,
+    "Title": "Bunny Merchant & Group Minigame!",
+    "Color": [255, 85, 255],
+    "BannerImage": "rbxassetid://125170904914793",
     "Changelog": [
-      {"Type": "Text", "Text": "✨ PATCH NOTES (05/15/2026) ✨", "Size": 24, "Bold": true},
-      {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
-      {"Type": "Image", "Title": "Balancing Adjustments", "ImageID": "rbxassetid://0", "Description": "\"We've fine-tuned early game progressions for better pacing.\""}
+      {"Type": "Text", "Text": "✨ PATCH NOTES (04/25/2026) ✨", "Size": 24, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "Bunny Merchant 🐰",
+        "ImageID": "rbxassetid://125170904914793",
+        "Description": "\"Unlocks at 100k Easter Points! Enjoy a x1.5 Weekend EXP Boost (Fri-Sun UTC).\""
+      },
+      {"Type": "Text", "Text": "🛠️ System Adjustments", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "Improved Settings GUI",
+        "ImageID": "rbxassetid://116821563795380",
+        "Description": "\"Cleaned up and separated into 4 smaller categories: Graphics, Gameplay, Sounds, and Extras!\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Plinko Minigame",
+        "ImageID": "rbxassetid://0",
+        "Description": "\"Group Exclusive!\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Boost GUI",
+        "ImageID": "rbxassetid://0",
+        "Description": "\"You can now View Your Active Boosts!\""
+      },
+      {"Type": "Text", "Text": "📈 Bunny Progression Shop Rewards", "Size": 22, "Bold": true},
+      {"Type": "Text", "Text": "• Lv. 0 🟫 Dirt Digging (100 EXP) | +25 EXP/Item | Free Gift Slot #1 (24h) | 1 Shop Slot", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 1 ⚙️ Iron Root (250 EXP) | Faster Free Gift (20h)", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 2 🧱 Copper Leaf (600 EXP) | +35 EXP/Item | +1 Shop Slot | Faster Free Gift (18h)", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 3 🥉 Bronze Berry (1,200 EXP) | 2.5h Shop Refresh | Faster Free Gift (15h)", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 4 🥈 Silver Sack (2,456 EXP) | +50 EXP/Item | 12h Free Gift | x1.2 Free Item EXP", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 5 🥇 Golden Guard (4,600 EXP) | +60 EXP/Item | +1 Shop Slot | 10h Free Gift", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 6 💿 Platinum Petal (10,000 EXP) | +85 EXP/Item | 2h Shop Refresh | 8h Free Gift", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 7 🟢 Emerald Vine (15,000 EXP) | +100 EXP/Item | +1 Shop Slot | Hidden Stocks I (5% No-Consume)", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 8 🔵 Sapphire Seed (22,002 EXP) | +120 EXP/Item | Unlocks Discount Slot (5% Max) | 6h Free Gift", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 9 🔴 Ruby Rose (28,012 EXP) | 1.5h Shop Refresh | 8% Max Discount | 4h Free Gift", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 10 🔍 Diamond Hunter (37,541 EXP) | Keep the Changes I (5% Refund) | +1 Shop Slot | 12% Max Discount", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 11 🍀 Crystal Clover (54,842 EXP) | +220 EXP/Item | 2 Free Gift Slots | 3h Free Gift", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 12 🟠 Amber Antler (73,541 EXP) | +250 EXP/Item | +1 Shop Slot (MAX) | 18% Max Disc | x3 Free EXP", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 13 ✨ Star Spirit (89,653 EXP) | +300 EXP/Item | 1h Shop Refresh | 22% Max Discount", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 14 🏆 Elite Merchant (110,444 EXP) | 3h Free Gift | 25% Max Discount | x5 Free Item EXP", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 15 👑 GRANDMASTER | +1000 EXP/Item | Keep the Changes II (10% Refund) | Hidden Stocks II (15% No-Consume) | 40% Max Discount | x10 Free Item EXP", "Size": 15, "Bold": true},
+      {"Type": "Text", "Text": "💡 Mechanics Explained", "Size": 18, "Bold": true},
+      {"Type": "Text", "Text": "• Hidden Stocks: A chance that an item won't be removed from the shop after purchase, letting you buy it again!", "Size": 14},
+      {"Type": "Text", "Text": "• Keep the Changes: Your Bunny friend has a chance to return a percentage of the currency you spent.", "Size": 14},
+      {"Type": "Text", "Text": "• Free Multiplier: Higher tiers drastically boost the EXP earned from claiming your daily freebies.", "Size": 14},
+      {"Type": "Text", "Text": "📢 Notice", "Size": 18, "Bold": true},
+      {"Type": "Text", "Text": "• More adjustments active! Brand new updates and changes are coming your way soon!", "Size": 15, "Bold": true}
     ]
   },
   {
-    "Name": "Placeholder Update 1",
-    "Version": "Pre Alpha V.0.4",
+    "Name": "Easter Part 1",
+    "Version": "Pre Alpha V.0.3.5",
     "SortOrder": 6,
-    "Title": "The Next Chapter!",
-    "Color": [255, 255, 255],
+    "Title": "Easter Event Yippe!",
+    "Color": [255, 85, 255],
     "BannerImage": "",
     "Changelog": [
-      {"Type": "Text", "Text": "✨ UPDATE NOTES (05/01/2026) ✨", "Size": 24, "Bold": true},
+      {"Type": "Text", "Text": "✨ What's New? (04/14/2026) ✨", "Size": 24, "Bold": true},
       {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
       {"Type": "Image", "Title": "New Event Arrival", "ImageID": "rbxassetid://0", "Description": "\"A massive temporary event zone is now open at spawn!\""}
     ]
