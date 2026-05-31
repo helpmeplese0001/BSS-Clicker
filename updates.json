@@ -62,7 +62,7 @@
         "Items": [
           {"Type": "Text", "Text": "• Fixed an issue where the Chat filter feature was breaking.", "Size": 16},
           {"Type": "Text", "Text": "• Patched a collision bug with the Contest Bear NPCs.", "Size": 16},
-          {"Type": "Text", "Text": "• Special thanks to @Omarplanet1 for optimizing the game!", "Size": 16},
+          {"Type": "Text", "Text": "• Special thanks to @Omarplanet1 for optimizing the game!", "Size": 16}
         ]
       },
       {
