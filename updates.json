@@ -26,7 +26,7 @@
     ]
   },
   {
-   "Name": "Easter Part 2",
+   "Name": "Bunny Merchant 🐰",
     "Version": "Pre Alpha V.0.3.8",
     "SortOrder": 6,
     "Title": "Bunny Merchant & Group Minigame!",
@@ -50,12 +50,12 @@
       {
         "Type": "Image",
         "Title": "Plinko Minigame",
-        "ImageID": "rbxassetid://0",
-        "Description": "\"Group Exclusive!\""
+        "ImageID": "rbxassetid://138349224476352",
+        "Description": "\"Group Exclusive! (Available Every 30 Minutes)\""
       },
       {
         "Type": "Image",
-        "Title": "Boost GUI",
+        "Title": "Boost GUI 🧱",
         "ImageID": "rbxassetid://72912294874006",
         "Description": "\"You can now View Your Active Boosts!\""
       },
@@ -91,11 +91,45 @@
     "SortOrder": 6,
     "Title": "Easter Event Yippe!",
     "Color": [255, 85, 255],
-    "BannerImage": "",
+    "BannerImage": "rbxassetid://107678347314402",
     "Changelog": [
       {"Type": "Text", "Text": "✨ What's New? (04/14/2026) ✨", "Size": 24, "Bold": true},
-      {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
-      {"Type": "Image", "Title": "New Event Arrival", "ImageID": "rbxassetid://0", "Description": "\"A massive temporary event zone is now open at spawn!\""}
+      {"Type": "Image","Title": "✨ New Event Arrival ✨", "ImageID": "rbxassetid://107678347314402", "Description": "\"A massive temporary event zone is now open at spawn!\""},
+      {"Type": "Text", "Text": "🚀 Event World", "Size": 22, "Bold": true},
+      {"Type": "Image", "Title": "Nice Blue and Cozy!", "ImageID": "rbxassetid://74095627818919", "Description": "\"Enjoy!\""},
+      {"Type": "Text", "Text": "🐻 Contest Bear NPC", "Size": 22, "Bold": true},
+      {"Type": "Image", "Title": "🐻 New Event Bear Arrival 🐻", "ImageID": "rbxassetid://82057110366801", "Description": "\"Complete the first 10 questlines to earn the exclusive Crowned Egg!\""},
+      {"Type": "Text", "Text": "🥚 The Great Egg Hunt", "Size": 22, "Bold": true},
+      {"Type": "Text", "Text": "• Discover 12 Special Eggs hidden around the map for a massive event buff! (8 Available in Part 1)", "Size": 16},
+      {"Type": "Image","Title": "🥚", "ImageID": "rbxassetid://115104590413938", "Description": "\"A list on how to get them is available below!\""},
+      {"Type": "Text","Text": "🟢 EASY TIER","Size": 18,"Bold": true},
+      {"Type": "Text","Text": "• Noob Egg: 1 in 1,000 chance from clicking the main egg.","Size": 15},
+      {"Type": "Text","Text": "• Cloud Egg: Count the clouds in the sky... or just enter code 0023!","Size": 15},
+      {"Type": "Text", "Text": "• Easter Basket: A rare drop from the brand new Easter Egg at spawn.","Size": 15},  
+      {"Type": "Text","Text": "• Chocolate Egg: Hidden somewhere inside the Event World.","Size": 15},
+      {"Type": "Text","Text": "🟡 MEDIUM TIER","Size": 18,"Bold": true},
+      {"Type": "Text","Text": "• Tribe Egg: A rare drop (1/2.5k) from collecting Eggs in the Event World.","Size": 15},
+      {"Type": "Text", "Text": "• AFK Egg: Stand perfectly still and do nothing for 20 minutes.", "Size": 15},
+      {"Type": "Text","Text": "• Crowned Egg: Finish the first 10 Contest Bear questlines.","Size": 15},
+      {"Type": "Text","Text": "• Pumpkin Egg: Finish the Scarecrow's questline.","Size": 15},
+      {"Type": "Text","Text": "✨ HARD TIER+","Size": 18,"Bold": true},
+      {"Type": "Text", "Text": "• Coming Soon", "Size": 16},
+      {"Type": "Text","Text": "🏆 New Event Achievements","Size": 22,"Bold": true},
+      {"Type": "Image","Title": "🏆 Easter 2026","ImageID": "rbxassetid://112070580541509","Description": "\"New limited-time achievements are here! Can you complete them all?\""},
+      {"Type": "Text", "Text": "🎃 Scarecrow NPC", "Size": 22, "Bold": true},
+      {"Type": "Image", "Title": "🎃 Lost in April 🎃 ", "ImageID": "rbxassetid://89523578396642", "Description": "\"Halloween in Easter?? Track down the Scarecrow to unlock the Pumpkin Egg!\""},
+      {"Type": "Text", "Text": "📊 Community Milestones", "Size": 22, "Bold": true},
+      {"Type": "Image", "Title": "📊 Easter Point Milestone 📊", "ImageID": "rbxassetid://99189087390977", "Description": "\"Work together to earn Easter Points for Egg multipliers and special rewards!\""},
+      {"Type": "Text", "Text": "⚙️ Gear Buffs & Rebalances", "Size": 22, "Bold": true},
+      {"Type": "Text", "Text": "• Helmet & Belt Pocket: x1.5 -> x2 Eggs", "Size": 15},
+      {"Type": "Text", "Text": "• Basic Boots: x2 -> x3 Eggs", "Size": 15},
+      {"Type": "Text", "Text": "• Left Bomber Guard: x1.25 -> x2 Eggs | Click Power +3% of EPS", "Size": 15},
+      {"Type": "Text", "Text": "• Right Hasty Guard: x1.25 -> x2 Eggs | Blender speed x1.1 faster", "Size": 15},
+      {"Type": "Text", "Text": "🛠️ Bug Fixes", "Size": 22, "Bold": true},
+      {"Type": "Text", "Text": "• Patched the Infinite Star Egg Stack glitch", "Size": 15},
+      {"Type": "Text", "Text": "• Fixed an issue where Boosts were not expiring", "Size": 15},
+      {"Type": "Text", "Text": "👀 Sneak Peek...","Size": 22,"Bold": true},
+      {"Type": "Image", "Title": "What's coming next?!","ImageID": "rbxassetid://125170904914793","Description": "\"A mysterious new friend might be setting up shop soon... Stay tuned for Part 2!\""}
     ]
   },
   {
