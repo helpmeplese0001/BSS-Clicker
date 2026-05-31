@@ -1,0 +1,372 @@
+[
+  {
+    "Name": "Placeholder Update 4",
+    "Version": "Pre Alpha V.0.5a",
+    "SortOrder": 9,
+    "Title": "New System Mechanics!",
+    "Color": [255, 85, 255],
+    "BannerImage": "",
+    "Changelog": [
+      {"Type": "Text", "Text": "✨ UPDATE (06/15/2026) ✨", "Size": 24, "Bold": true},
+      {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
+      {"Type": "Image", "Title": "New Mechanics Showcase", "ImageID": "rbxassetid://0", "Description": "\"Details regarding the new mechanics implementation.\""}
+    ]
+  },
+  {
+    "Name": "Placeholder Update 3",
+    "Version": "Pre Alpha V.0.5",
+    "SortOrder": 8,
+    "Title": "Major Content Drop!",
+    "Color": [85, 255, 127],
+    "BannerImage": "",
+    "Changelog": [
+      {"Type": "Text", "Text": "✨ MAJOR UPDATE (06/01/2026) ✨", "Size": 24, "Bold": true},
+      {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
+      {"Type": "Image", "Title": "New Content Unlocked", "ImageID": "rbxassetid://0", "Description": "\"Take a look at the expansion elements added today!\""}
+    ]
+  },
+  {
+    "Name": "Placeholder Update 2",
+    "Version": "Pre Alpha V.0.4a",
+    "SortOrder": 7,
+    "Title": "Balance Changes & Optimizations",
+    "Color": [255, 170, 0],
+    "BannerImage": "",
+    "Changelog": [
+      {"Type": "Text", "Text": "✨ PATCH NOTES (05/15/2026) ✨", "Size": 24, "Bold": true},
+      {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
+      {"Type": "Image", "Title": "Balancing Adjustments", "ImageID": "rbxassetid://0", "Description": "\"We've fine-tuned early game progressions for better pacing.\""}
+    ]
+  },
+  {
+    "Name": "Placeholder Update 1",
+    "Version": "Pre Alpha V.0.4",
+    "SortOrder": 6,
+    "Title": "The Next Chapter!",
+    "Color": [255, 255, 255],
+    "BannerImage": "",
+    "Changelog": [
+      {"Type": "Text", "Text": "✨ UPDATE NOTES (05/01/2026) ✨", "Size": 24, "Bold": true},
+      {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
+      {"Type": "Image", "Title": "New Event Arrival", "ImageID": "rbxassetid://0", "Description": "\"A massive temporary event zone is now open at spawn!\""}
+    ]
+  },
+  {
+    "Name": "World 3 & Quests!",
+    "Version": "Pre Alpha V.0.3",
+    "SortOrder": 5,
+    "Title": "Beyond the Void: World 3!",
+    "Color": [0, 170, 255],
+    "BannerImage": "rbxassetid://93198970828028",
+    "Changelog": [
+      {"Type": "Text", "Text": "✨ MAJOR UPDATE (04/04/2026) ✨", "Size": 24, "Bold": true},
+      {"Type": "Text", "Text": "🌌 Discover World 3", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "A Dimension Reborn!",
+        "ImageID": "rbxassetid://136280913957327",
+        "Description": "\"Unlock the secrets of World 3! Access granted once you harness 1 Qi Total Eggs within the Void.\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Retro Revival!",
+        "ImageID": "rbxassetid://93198970828028",
+        "Description": "\"Experience the nostalgia. Classic vibes meet modern gains!\""
+      },
+      {
+        "Type": "Image",
+        "Title": "The Party House",
+        "ImageID": "rbxassetid://100396553823845",
+        "Description": "\"Take a break from the grind and enjoy the festivities. Good times and better rewards await!\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Redacted Files...",
+        "ImageID": "rbxassetid://136309363722094",
+        "Description": "\"Strange signals are emanating from the new world... can you find what's hidden?\""
+      },
+      {"Type": "Text", "Text": "🛠️ Refreshes & Milestones", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "Pixel Egg Milestones!",
+        "ImageID": "rbxassetid://109419305558178",
+        "Description": "\"Push your limits! Complete the brand new Pixel Milestones for massive Egg multipliers.\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Void Overhaul",
+        "ImageID": "rbxassetid://140608415982372",
+        "Description": "\"The Void has been visually stabilized and redesigned for a more immersive experience.\""
+      },
+      {"Type": "Text", "Text": "🐻 The Quest for Greatness", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "Black Bear's Arrival!",
+        "ImageID": "rbxassetid://86696850044302",
+        "Description": "\"A new face in town! Tackle the first 10 chapters of Black Bear's epic questline.\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Star Egg Hunting!",
+        "ImageID": "rbxassetid://137492202338413",
+        "Description": "\"Achievement rewards have been buffed. Start hunting Star Eggs to power up your collection!\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Even More Achievements Update!",
+        "ImageID": "rbxassetid://104136613660448",
+        "Description": "\"More tiers. More challenges. More glory. Are you a true completionist?\""
+      },
+      {"Type": "Text", "Text": "🔮 What's on the Horizon?", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "The Great Hunt Approaches...",
+        "ImageID": "rbxassetid://107678347314402",
+        "Description": "\"Something colorful is hiding in the tall grass. Get your baskets ready for the Easter Event!\""
+      }
+    ]
+  },
+  {
+    "Name": "Auto Rejoin Rework!",
+    "Version": "Pre Alpha V.0.2a",
+    "SortOrder": 4,
+    "Title": "Auto Rejoin Rework & Rebalances!",
+    "Color": [255, 255, 127],
+    "BannerImage": "",
+    "Changelog": [
+      {"Type": "Text", "Text": "✨ What's New? (03/15/2026) ✨", Size: 24, "Bold": true},
+      {"Type": "Text", "Text": "• Add the portal effect & zone area for when teleporting to somewhere", "Size": 16, "Bold": true},
+      {"Type": "Text", "Text": "• Fixed Shop prices & Nerfing seed price for early game", "Size": 16, "Bold": true},
+      {"Type": "Text", "Text": "• Some items in the shop has been reduced in order to make room for next update!", "Size": 16, "Bold": true},
+      {"Type": "Text", "Text": "• Auto Rejoin is now fixed and tracks playermovement & input correctly", "Size": 16, "Bold": true},
+      {"Type": "Text", "Text": "• New Disable Auto Rejoin Settings", "Size": 16, "Bold": true},
+      {"Type": "Text", "Text": "• Added Chat Cooldown to prevent spamming", "Size": 16, "Bold": true},
+      {"Type": "Text", "Text": "• Fixed Chat input issue", "Size": 16, "Bold": true},
+      {"Type": "Text", "Text": "• Removed Valentine Egg", "Size": 16, "Bold": true},
+      {"Type": "Text", "Text": "• Fix collision issue with black bear NPC", "Size": 16, "Bold": true},
+      {"Type": "Text", "Text": "• Reverted lobby back to original. Thank you for participating the event", "Size": 16, "Bold": true},
+      {"Type": "Text", "Text": "• Valentines reward will be given out in the next major update", "Size": 16, "Bold": true},
+      {"Type": "Text", "Text": "We hope you enjoy this small update while waiting for something huge.", "Size": 16, "Bold": true}
+    ]
+  },
+  {
+    "Name": "Settings GUI & Name Tag",
+    "Version": "Pre Alpha V.0.2",
+    "SortOrder": 3,
+    "Title": "OMG NEW UPDATE HAS DROPPED!!!",
+    "Color": [255, 198, 196],
+    "BannerImage": "rbxassetid://125908862170769",
+    "Changelog": [
+      {"Type": "Text", "Text": "✨ What's New? (03/08/2026) ✨", "Size": 24, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "Settings GUI",
+        "ImageID": "rbxassetid://110032377054836",
+        "Description": "\"A way to make your life better!\""
+      },
+      {
+        "Type": "Image",
+        "Title": "🥇 New Achievements Rewards!",
+        "ImageID": "rbxassetid://90202419007355",
+        "Description": "\"Join the group now!!\""
+      },
+      {
+        "Type": "Image",
+        "Title": "New Items",
+        "ImageID": "rbxassetid://117046896112840",
+        "Description": "\"I wonder.. what will they do??\""
+      },
+      {
+        "Type": "Image",
+        "Title": "New Planters Model",
+        "ImageID": "rbxassetid://125908862170769",
+        "Description": "\"Why are they so familar?????\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Void is now easily accesible for everyone",
+        "ImageID = ": "rbxassetid://135770953851340",
+        "Description": "\"Nerfing the requirement from 1,000T (1Qa) -> 100B Total Eggs\""
+      },
+      {"Type": "Text", "Text": "We've decided to change this in order to make room for upcoming world 3", "Size": 18, "Bold": true},
+      {"Type": "Text", "Text": "🚀 New Nametags Added!", "Size": 22, "Bold": true},
+      {"Type": "Text", "Text": "💘 Valentines Event Ending Soon!", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "Valentines Leaderboard",
+        "ImageID": "rbxassetid://80310775359741",
+        "Description": "\"The event is ending in less than 7 days.\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Ending Timer added to leaderboard",
+        "ImageID": "rbxassetid://124640527290778",
+        "Description": "\"Your position on the leaderboard determines the reward that you get!\""
+      },
+      {"Type": "Text", "Text": "💎 When is the next update??", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "New Update Countdown Timer!",
+        "ImageID": "rbxassetid://105258406309042",
+        "Description": "\"We are changing from weekly update to bi-weekly update!\""
+      }
+    ]
+  },
+  {
+    "Name": "Qol improvement",
+    "Version": "Pre Alpha V.0.1a",
+    "SortOrder": 2,
+    "Title": "Auto Rejoin!!",
+    "Color": [224, 255, 253],
+    "BannerImage": "rbxassetid://122434178239170",
+    "Changelog": [
+      {"Type": "Text", "Text": "✨ What's New? (03/02/2026) ✨", "Size": 24, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "Auto AFK Rejoin",
+        "ImageID": "rbxassetid://122434178239170",
+        "Description": "\"The game rejoin automatically after you afk for a while.\""
+      }
+    ]
+  },
+  {
+    "Name": "Lovely Harvest ❤️",
+    "Version": "Pre Alpha V.0.1",
+    "SortOrder": 1,
+    "Title": "🌹 Bee Swarm Clicker has recieved some love. 🌹",
+    "Color": [255, 170, 255],
+    "BannerImage": "rbxassetid://103257725584958",
+    "Changelog": [
+      {"Type": "Text", "Text": "🌹 What's New? (02/28/2026) 🌹", "Size": 24, "Bold": true},
+      {"Type": "Text", "Text": "💘 New Valentines Event", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "Valentines Leaderboard",
+        "ImageID": "rbxassetid://80310775359741",
+        "Description": "\"Compete on the Valentines 💘 Leaderboard for Awesome Rewards.\""
+      },
+      {"Type": "Text", "Text": "Top 10 gets a special reward next update. :D", "Size": 18},
+      {"Type": "Text", "Text": "🚀 The entire game has been revamped! 🚀", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "🏝️New Spawn Island🏝️",
+        "ImageID": "rbxassetid://103257725584958",
+        "Description": "\"Please welcome to the long awaited spawn Island with Valentine Theme\""
+      },
+      {
+        "Type": "Image",
+        "Title": "👑New Leaderboard System 2.0👑",
+        "ImageID": "rbxassetid://74469357593147",
+        "Description": "\"Can you make it to the top of the leaderboard?\""
+      },
+      {"Type": "Text", "Text": "Note: The Playtime leaderboard wasn't being tracked prior to this update. Oops...", "Size": 18},
+      {"Type": "Text", "Text": "🌐 New Custom Chat System 🌐!", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "💎 New Custom Chat GUI",
+        "ImageID": "rbxassetid://72875754436938",
+        "Description": "\"Thats a lot of new stuff, isn't it?!\""
+      },
+      {
+        "Type": "Image",
+        "Title": "💬 New Custom Bubble Chat",
+        "ImageID": "rbxassetid://135178761678608",
+        "Description": "\"Ooooo a new bubble chat :)\""
+      },
+      {"Type": "Text", "Text": "The chat system is currently in development. 🚀", "Size": 18, "Bold": true},
+      {"Type": "Text", "Text": "We are currently building a better way for you to talk!", "Size": 16},
+      {"Type": "Text", "Text": "✨ UPCOMING FEATURES FOR CHAT SYSTEM", "Size": 18, "Bold": true},
+      {"Type": "Text", "Text": "• Custom Emoji System 😃", "Size": 16},
+      {"Type": "Text", "Text": "• Chat Customization (Chat Tags & Colors) 🌐", "Size": 16},
+      {"Type": "Text", "Text": "We hope you enjoy talking to your friends! Have fun!", "Size": 16, "Bold": true},
+      {"Type": "Text", "Text": "🏝️ A whole new world! 🏝️!", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "What is this??",
+        "ImageID": "rbxassetid://124518738496849",
+        "Description": "\"I wonder what can you do with them??\""
+      },
+      {
+        "Type": "Image",
+        "Title": "A familar faces return",
+        "ImageID": "rbxassetid://95128513870257",
+        "Description": "\"Yoooooo! hes here too?\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Grow A Garden??",
+        "ImageID": "rbxassetid://134880754369150",
+        "Description": "\"I wonder what can you do with them??\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Mr.Farmer",
+        "ImageID": "rbxassetid://87268307251627",
+        "Description": "\"Talk to him to learn more about the new world!\""
+      },
+      {"Type": "Text", "Text": "🎉 New Achievements System 🎉!", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "🎉 New Achievements board!",
+        "ImageID": "rbxassetid://113850994535525",
+        "Description": "\"Can you complete all the achievements?\""
+      },
+      {
+        "Type": "Image",
+        "Title": "🥇 New Achievements Rewards!",
+        "ImageID": "rbxassetid://137189398801586",
+        "Description": "\"Unlocks All Achievement Rewards!\""
+      },
+      {
+        "Type": "Image",
+        "Title": "🏆 Playtime Achievement!",
+        "ImageID": "rbxassetid://76399002463231",
+        "Description": "\"How long can you play this game..\""
+      },
+      {"Type": "Text", "Text": "⚒️ New Main Board Screen ⚒️!", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "Old Main Screen",
+        "ImageID": "rbxassetid://92829092272046",
+        "Description": "\"yikes..\""
+      },
+      {
+        "Type": "Image",
+        "Title": "New Main Screen",
+        "ImageID": "rbxassetid://130703521885660",
+        "Description": "\"Much Better!\""
+      },
+      {"Type": "Text", "Text": "⚒️ New Upgrade Screen ⚒️!", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "Buy Bees screen 2.0",
+        "ImageID": "rbxassetid://82854949608204",
+        "Description": "\"Can you get to 1 million Basic Bees??\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Toggleable Bees Amount",
+        "ImageID": "rbxassetid://110563861913847",
+        "Description": "\"Yoooooo! i can finally buy 500 Basic Bees at the same time\""
+      },
+      {"Type": "Text", "Text": "⚒️ What's next? ⚒️!", "Size": 24, "Bold": true},
+      {"Type": "Text", "Text": "• Chat Customization (Chat Tags & Colors)", "Size": 18},
+      {"Type": "Text", "Text": "• Custom Name Tags", "Size": 18},
+      {"Type": "Text", "Text": "• Admin Abuse in near future!", "Size": 18},
+      {"Type": "Text", "Text": "• Settings Gui", "Size": 18},
+      {"Type": "Text", "Text": "• Improving Map Quality", "Size": 18},
+      {"Type": "Text", "Text": "• Reduce Lag", "Size": 18},
+      {"Type": "Text", "Text": "• More cool features!", "Size": 18},
+      {"Type": "Text", "Text": "• More events!", "Size": 18},
+      {
+        "Type": "Image",
+        "Title": "And much more!!",
+        "ImageID": "rbxassetid://116612044771377",
+        "Description": "\"I wonder what this sign at spawn will do??\""
+      },
+      {"Type": "Text", "Text": "✨ Happy Birthday to Spirit! today is his birthday (February 28th) ✨", "Size": 24, "Bold": true},
+      {"Type": "Text", "Text": "✨ Also sorry for the late update! The update is larger than we anticipated! - Spirit & Omar ✨", "Size": 24, "Bold": true},
+      {"Type": "Text", "Text": "✨ join the community server for leaks and when the next update is released! ✨", "Size": 24, "Bold": true}
+    ]
+  }
+]
