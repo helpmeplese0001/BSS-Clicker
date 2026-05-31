@@ -1,5 +1,39 @@
 [
   {
+  "Name": "Massive Overhaul",
+  "Version": "Pre Alpha V.0.5",
+  "SortOrder": 10,
+  "Title": "The Big Mechanics Update!",
+  "Color": [0, 255, 127],
+  "BannerImage": "rbxassetid://122123173691440",
+  "HeaderText": "✨ MAJOR UPDATE (06/01/2026) ✨",
+  "Sections": [
+    {
+      "SectionTitle": "⚙️ New Mechanics",
+      "Items": [
+        {"Type": "Text", "Text": "• We completely overhauled how harvesting works!", "Size": 16},
+        {"Type": "Text", "Text": "• New combo multipliers added to the UI.", "Size": 16},
+        {"Type": "Image", "Title": "Combo UI Preview", "ImageID": "rbxassetid://1234567890", "Description": "\"Watch those numbers go up!\"", "BgColor": [40, 40, 40]}
+      ]
+    },
+    {
+      "SectionTitle": "🛠️ Bug Fixes",
+      "Items": [
+        {"Type": "Text", "Text": "• Fixed an issue where the nametag filter feature was breaking.", "Size": 16},
+        {"Type": "Text", "Text": "• Patched a collision bug with the NPCs.", "Size": 16}
+      ]
+    },
+    {
+      "SectionTitle": "🔮 What's Next?",
+      "Items": [
+        {"Type": "Text", "Text": "• Omar and I are already cooking up the next big event zone.", "Size": 16},
+        {"Type": "Text", "Text": "• <font color=\"#FF0000\"><b>Stay tuned for more sneak peeks in the Discord!</b></font>", "Size": 16}
+      ]
+    }
+  ],
+  "FooterText": "🐝 Keep Swarming and Enjoy the Update!"
+},
+  {
     "Name": "Easter Finale",
     "Version": "Pre Alpha V.0.4.2",
     "SortOrder": 9,
