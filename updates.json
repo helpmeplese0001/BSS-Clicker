@@ -56,7 +56,7 @@
       {
         "Type": "Image",
         "Title": "Boost GUI",
-        "ImageID": "rbxassetid://0",
+        "ImageID": "rbxassetid://72912294874006",
         "Description": "\"You can now View Your Active Boosts!\""
       },
       {"Type": "Text", "Text": "📈 Bunny Progression Shop Rewards", "Size": 22, "Bold": true},
@@ -75,13 +75,14 @@
       {"Type": "Text", "Text": "• Lv. 12 🟠 Amber Antler (73,541 EXP) | +250 EXP/Item | +1 Shop Slot (MAX) | 18% Max Disc | x3 Free EXP", "Size": 15},
       {"Type": "Text", "Text": "• Lv. 13 ✨ Star Spirit (89,653 EXP) | +300 EXP/Item | 1h Shop Refresh | 22% Max Discount", "Size": 15},
       {"Type": "Text", "Text": "• Lv. 14 🏆 Elite Merchant (110,444 EXP) | 3h Free Gift | 25% Max Discount | x5 Free Item EXP", "Size": 15},
-      {"Type": "Text", "Text": "• Lv. 15 👑 GRANDMASTER | +1000 EXP/Item | Keep the Changes II (10% Refund) | Hidden Stocks II (15% No-Consume) | 40% Max Discount | x10 Free Item EXP", "Size": 15, "Bold": true},
+      {"Type": "Text", "Text": "• Lv. 15 👑 GRANDMASTER | +1000 EXP/Item | Keep the Changes II (10% Refund) | Hidden Stocks II (15% No-Consume) | 40% Max Discount | x10 Free Item EXP", "Size": 15},
       {"Type": "Text", "Text": "💡 Mechanics Explained", "Size": 18, "Bold": true},
       {"Type": "Text", "Text": "• Hidden Stocks: A chance that an item won't be removed from the shop after purchase, letting you buy it again!", "Size": 14},
       {"Type": "Text", "Text": "• Keep the Changes: Your Bunny friend has a chance to return a percentage of the currency you spent.", "Size": 14},
       {"Type": "Text", "Text": "• Free Multiplier: Higher tiers drastically boost the EXP earned from claiming your daily freebies.", "Size": 14},
       {"Type": "Text", "Text": "📢 Notice", "Size": 18, "Bold": true},
-      {"Type": "Text", "Text": "• More adjustments active! Brand new updates and changes are coming your way soon!", "Size": 15, "Bold": true}
+      {"Type": "Text", "Text": "• More adjustments to the game performance! (it should feel smoother to play the game now!)", "Size": 15, "Bold": true}
+      {"Type": "Text", "Text": "• Brand new updates and changes are coming your way soon!", "Size": 15, "Bold": true}
     ]
   },
   {
