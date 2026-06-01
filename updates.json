@@ -6,12 +6,61 @@
     "Title": "Bumble Bee Man is here!",
     "Color": [255, 85, 255],
     "BannerImage": "rbxassetid://122123173691440",
-    "Changelog": [
-      {"Type": "Text", "Text": "✨ What's New?? (05/30/2026) ✨", "Size": 24, "Bold": true},
-      {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
-      {"Type": "Image", "Title": "Full Egg Family Tree", "ImageID": "rbxassetid://122123173691440", "Description": "\"Full Egg Family Tree is here!\""}
+    "HeaderText": "✨ NEW UPDATE (05/30/2026) ✨",
+    "Sections": [
+      {
+        "SectionTitle": "🎒 Inventory GUI",
+        "Items": [
+          {"Type": "Text", "Text": "• The Long Awaited Inventory GUI is here!", "Size": 16},
+          {"Type": "Text", "Text": "• Unlocks the nametag through Quests and Achievements! (More Will Be Available in Near Future!)", "Size": 16},
+          {"Type": "Image", "Title": "Yes", "ImageID": "rbxassetid://1234567890", "Description": "\"Please note that currently nametag is available but more will be coming to in future! such as codes, player stats, consumables\"", "BgColor": [40, 40, 40]},
+          {"Type": "Text", "Text": "• Everyone who joined before this update drop will receive the exclusive Alpha nametag!", "Size": 16},
+          {"Type": "Text", "Text": "• Easily equip, unequip, and preview how items look on your character.", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "✒️ Blackhole Obby & Egg!",
+        "Items": [
+          {"Type": "Text", "Text": "• Talk to the Scarecrow NPC to begin the new challenge!", "Size": 16},
+          {"Type": "Image", "Title": "Choose your own path!", "ImageID": "rbxassetid://1234567890", "Description": "\"Whatever you choose determines your destiny...\"", "BgColor": [40, 40, 40]},
+          {"Type": "Text", "Text": "• Navigate through rotating platforms, fading blocks, and zero-gravity jumps.", "Size": 16},
+          {"Type": "Image", "Title": "Get to the top!", "ImageID": "rbxassetid://1234567890", "Description": "\"Why is the tower so high...\"", "BgColor": [40, 40, 40]},
+          {"Type": "Text", "Text": "• Defeat harder modes for better rewards and a massive EXP multiplier!", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "✒️ Lobby Overhaul!",
+        "Items": [
+          {"Type": "Text", "Text": "• New Lobby Again? Yes! We've fully optimized the spawn area for better performance.", "Size": 16},
+          {"Type": "Text", "Text": "• Huge thanks to Omar for helping re-design the central plaza structure!", "Size": 16},
+          {"Type": "Image", "Title": "A Fresh Look", "ImageID": "rbxassetid://1234567890", "Description": "\"Enjoy the new scenery and hidden secrets scattered around.\"", "BgColor": [40, 40, 40]}
+        ]
+      },
+      {
+        "SectionTitle": "⚖️ Balance Changes",
+        "Items": [
+          {"Type": "Text", "Text": "• Rebalanced early-game seed costs so new players can progress smoother.", "Size": 16},
+          {"Type": "Text", "Text": "• Slightly nerf Black Bear quests to be easier to complete!", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "🛠️ Bug Fixes",
+        "Items": [
+          {"Type": "Text", "Text": "• Fixed an issue where the Chat filter feature was breaking.", "Size": 16},
+          {"Type": "Text", "Text": "• Patched a collision bug with the Contest Bear NPCs.", "Size": 16},
+          {"Type": "Text", "Text": "• Special thanks to @Omarplanet1 for optimizing the game!", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "🔮 What's Next?",
+        "Items": [
+          {"Type": "Text", "Text": "• A Familiar Face emerges!", "Size": 16},
+          {"Type": "Image", "Title": "It's you??", "ImageID": "rbxassetid://1234567890", "Description": "\"BBM is here...\"", "BgColor": [40, 40, 40]},
+          {"Type": "Image", "Title": "All 12 Event eggs", "ImageID": "rbxassetid://122123173691440", "Description": "\"The Full Egg Family Tree is coming soon!\""}
+        ]
+      }
     ],
-    "FooterText": "Enjoy the Update!"
+    "FooterText": "🐝 Easter Finale coming soon!"
   },
   {
     "Name": "Nametags & Obby",
