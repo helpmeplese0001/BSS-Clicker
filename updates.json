@@ -116,8 +116,8 @@
       {
         "SectionTitle": "✒️ Blackhole Obby & Egg!",
         "Items": [
-          {"Type": "Image", "Title": "New Portal Emerges in World 3!", "ImageID": "rbxassetid://126620609596422", "Description": "\"Talk to the Scarecrow NPC to begin the new challenge!\"", "BgColor": [107, 50, 124},
-          {"Type": "Image", "Title": "Choose your own path!", "ImageID": "rbxassetid://122290567292370", "Description": "\"Whatever you choose determines your destiny...\"", "BgColor": [193, 223, 240},
+          {"Type": "Image", "Title": "New Portal Emerges in World 3!", "ImageID": "rbxassetid://126620609596422", "Description": "\"Talk to the Scarecrow NPC to begin the new challenge!\"", "BgColor": [107, 50, 124}},
+          {"Type": "Image", "Title": "Choose your own path!", "ImageID": "rbxassetid://122290567292370", "Description": "\"Whatever you choose determines your destiny...\"", "BgColor": [193, 223, 240}},
           {"Type": "Image", "Title": "Select Difficulty!", "ImageID": "rbxassetid://118543388903140", "Description": "\"Easy or Hard\"", "BgColor": [236, 236, 236]},
           {"Type": "Text", "Text": "• Defeat harder modes for better rewards and a massive EXP multiplier!", "Size": 16}
         ]
