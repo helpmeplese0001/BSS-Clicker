@@ -5,7 +5,7 @@
     "SortOrder": 9,
     "Title": "Bumble Bee Man is here!",
     "Color": [255, 85, 255],
-    "BannerImage": "rbxassetid://122123173691440",
+    "BannerImage": "rbxassetid://71961913510293",
     "HeaderText": "✨ NEW UPDATE (05/30/2026) ✨",
     "Sections": [
       {
@@ -68,9 +68,17 @@
     "SortOrder": 8,
     "Title": "Easter Part 3 in disguise!",
     "Color": [255, 85, 255],
-    "BannerImage": "",
-    "HeaderText": "✨ NEW UPDATE (05/16/2026) ✨",
+    "BannerImage": "rbxassetid://125717412075936",
+    "HeaderText": "✨ What's New? (05/16/2026) ✨",
     "Sections": [
+      {
+        "SectionTitle": "Update Log improvement!",
+        "Items": [
+          {"Type": "Text", "Text": "• New Update log lol.", "Size": 18},
+          {"Type": "Text", "Text": "• Update log has been moved to <font color=\"#FFD700\"> Extras </font> tab in <b> Settings GUI </b>", "Size": 18}
+
+        ]
+      },
       {
         "SectionTitle": "🎒 Inventory GUI",
         "Items": [
@@ -141,13 +149,12 @@
       {
         "SectionTitle": "🔮 What's Next?",
         "Items": [
-          {"Type": "Text", "Text": "• A Familiar Face emerges!", "Size": 16},
-          {"Type": "Image", "Title": "It's you??", "ImageID": "rbxassetid://1234567890", "Description": "\"BBM is here...\"", "BgColor": [40, 40, 40]},
-          {"Type": "Image", "Title": "All 12 Event eggs", "ImageID": "rbxassetid://122123173691440", "Description": "\"The Full Egg Family Tree is coming soon!\""}
+          {"Type": "Image", "Title": "Easter Finale!", "ImageID": "rbxassetid://122123173691440", "Description": "\"The Final Journey is coming soon!\""},
+          {"Type": "Image", "Title": "????", "ImageID": "rbxassetid://71961913510293", "Description": "\"BBM is here...\"", "BgColor": [245, 205, 48]}
         ]
       }
     ],
-    "FooterText": "🐝 Easter Finale coming soon!"
+    "FooterText": "🐝 Buzz Buzz"
   },
   {
    "Name": "Bunny Merchant 🐰",
