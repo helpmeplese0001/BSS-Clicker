@@ -86,12 +86,12 @@
          "Items": [
            {"Type": "Text", "Text": "• <b><font color=\"#FFD700\">41 Unique Nametags</font></b> now available, organized into 7 categories: Common, Uncommon, Rare, <b>Legendary</b>, Event, <b>Exclusive</b>, and <b>Special</b>!", "Size": 16},
            {"Type": "Text", "Text": "• 🏷️ Here are some of the nametag! 🏷️ ", "Size": 16},
-           {"Type": "Image", "Title": "67", "ImageID": "rbxassetid://125717412075936", "Description": "\"Did someone say 67?\"", "BgColor": [243, 207, 155]},
-           {"Type": "Text", "Text": "• <b>🏆 Exclusive Leaderboard Rewards (Top 25)</b>", "Size": 20},
-           {"Type": "Image", "Title": "67", "ImageID": "rbxassetid://125717412075936", "Description": "\"Did someone say 67?\"", "BgColor": [243, 207, 155]},
-           {"Type": "Image", "Title": "67", "ImageID": "rbxassetid://125717412075936", "Description": "\"Did someone say 67?\"", "BgColor": [243, 207, 155]},
-           {"Type": "Image", "Title": "67", "ImageID": "rbxassetid://125717412075936", "Description": "\"Did someone say 67?\"", "BgColor": [243, 207, 155]},
-           {"Type": "Image", "Title": "67", "ImageID": "rbxassetid://125717412075936", "Description": "\"Did someone say 67?\"", "BgColor": [243, 207, 155]},
+           {"Type": "Image", "Title": "67 Nametag", "ImageID": "rbxassetid://132046231946290", "Description": "\"Did someone say 67?\"", "BgColor": [243, 207, 155]},
+           {"Type": "Text", "Text": "• <b><font color=\"#FFD700\">🏆 Exclusive Leaderboard Nametag </font></b>", "Size": 20},
+           {"Type": "Image", "Title": "Wealthy Millionare Nametag", "ImageID": "rbxassetid://99924532009980", "Description": "\"Given to Top 25 of the Donation leaderboard.\"", "BgColor": [243, 207, 155]},
+           {"Type": "Image", "Title": "Speed Clicker Nametag", "ImageID": "rbxassetid://131551835140967", "Description": "\"Given to Top 25 of the Clicks leaderboard.\"", "BgColor": [243, 207, 155]},
+           {"Type": "Image", "Title": "Eggcellent Nametag", "ImageID": "rbxassetid://111164626915979", "Description": "\"Given to Top 25 of the Egg leaderboard.\"", "BgColor": [243, 207, 155]},
+           {"Type": "Image", "Title": "Paradox Nametag", "ImageID": "rbxassetid://105774908669519", "Description": "\"Given to Top 25 of the Playtime leaderboard.\"", "BgColor": [243, 207, 155]},
            
           {"Type": "Text", "Text": "• <b>Speed Clicker</b>: Top 25 Clicks | <b>Wealthy Millionaire</b>: Top 25 Donators | <b>Eggcellent</b>: Top 25 Egg Makers | <b>Paradox</b>: Top 25 Playtime", "Size": 15},
           {"Type": "Text", "Text": "• <b><font color=\"#FF0000\">ERR_404</font></b>: [CRITICAL] System failure detected... (Admin Manual)", "Size": 15},
