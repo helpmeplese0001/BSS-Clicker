@@ -93,18 +93,18 @@
            {"Type": "Image", "Title": "67", "ImageID": "rbxassetid://125717412075936", "Description": "\"Did someone say 67?\"", "BgColor": [243, 207, 155]},
            {"Type": "Image", "Title": "67", "ImageID": "rbxassetid://125717412075936", "Description": "\"Did someone say 67?\"", "BgColor": [243, 207, 155]},
            
-    {"Type": "Text", "Text": "• <b>Speed Clicker</b>: Top 25 Clicks | <b>Wealthy Millionaire</b>: Top 25 Donators | <b>Eggcellent</b>: Top 25 Egg Makers | <b>Paradox</b>: Top 25 Playtime", "Size": 15},
-    {"Type": "Text", "Text": "• <b><font color=\"#FF0000\">ERR_404</font></b>: [CRITICAL] System failure detected... (Admin Manual)", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Speed Clicker</b>: Top 25 Clicks | <b>Wealthy Millionaire</b>: Top 25 Donators | <b>Eggcellent</b>: Top 25 Egg Makers | <b>Paradox</b>: Top 25 Playtime", "Size": 15},
+          {"Type": "Text", "Text": "• <b><font color=\"#FF0000\">ERR_404</font></b>: [CRITICAL] System failure detected... (Admin Manual)", "Size": 15},
     
-    {"Type": "Text", "Text": "• <b>✨ Special Tags</b>", "Size": 18},
-    {"Type": "Text", "Text": "• <b>Alpha</b>: OG! (Joined before Part 3) | <b>Bees</b>: Group Exclusive!", "Size": 15},
-    {"Type": "Text", "Text": "• <b>Master</b>: Top 5 in ANY Leaderboard | <b>Legend</b>: Top 5 in at least 2 categories!", "Size": 15},
+          {"Type": "Text", "Text": "• <b>✨ Special Tags</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <b>Alpha</b>: OG! (Joined before Part 3) | <b>Bees</b>: Group Exclusive!", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Master</b>: Top 5 in ANY Leaderboard | <b>Legend</b>: Top 5 in at least 2 categories!", "Size": 15},
     
-    {"Type": "Image", "Title": "Tag Preview Showcase", "ImageID": "rbxassetid://125717412075936", "Description": "\"A sneak peek at our new UI showcasing these rare titles!\"", "BgColor": [128, 187, 219]},
+          {"Type": "Image", "Title": "Tag Preview Showcase", "ImageID": "rbxassetid://125717412075936", "Description": "\"A sneak peek at our new UI showcasing these rare titles!\"", "BgColor": [128, 187, 219]},
     
-    {"Type": "Text", "Text": "• And there is <b><font color=\"#00FF00\">much more</font></b> to be obtained through Quests, Achievements, and Secret Codes! Keep exploring!", "Size": 16}
-  ]
-}
+          {"Type": "Text", "Text": "• And there is <b><font color=\"#00FF00\">much more</font></b> to be obtained through Quests, Achievements, and Secret Codes! Keep exploring!", "Size": 16}
+        ]
+      },
       {
         "SectionTitle": "✒️ Blackhole Obby & Egg!",
         "Items": [
