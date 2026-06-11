@@ -118,8 +118,7 @@
         "SectionTitle": "Update Log improvement!",
         "Items": [
           {"Type": "Text", "Text": "• New Update log lol.", "Size": 18},
-          {"Type": "Text", "Text": "• Update log has been moved to <font color=\"#FFD700\">Extras</font> tab in<b><font color=\"#FFD700\"> Settings GUI.</font></b>", "Size": 18}
-
+          {"Type": "Text", "Text": "• Update log has been moved to <font color=\"#FFD700\">Extras</font> tab in <b><font color=\"#FFD700\">Settings GUI.</font></b>", "Size": 18}
         ]
       },
       {
@@ -134,25 +133,20 @@
       },
       {
         "SectionTitle": "🏷️ Nametag Overhaul & Leaderboard Rewards",
-         "Items": [
-           {"Type": "Text", "Text": "• <b><font color=\"#FFD700\">41 Unique Nametags</font></b> now available, organized into 7 categories: Common, Uncommon, Rare, <b>Legendary</b>, Event, <b>Exclusive</b>, and <b>Special</b>!", "Size": 16},
-           {"Type": "Text", "Text": "• 🏷️ Here are some of the nametag! 🏷️ ", "Size": 16},
-           {"Type": "Image", "Title": "67 Nametag", "ImageID": "rbxassetid://132046231946290", "Description": "\"Did someone say 67?\"", "BgColor": [243, 207, 155]},
-           {"Type": "Text", "Text": "• <b><font color=\"#FFD700\">🏆 Exclusive Leaderboard Nametag </font></b>", "Size": 20},
-           {"Type": "Image", "Title": "Wealthy Millionare Nametag", "ImageID": "rbxassetid://99924532009980", "Description": "\"Given to Top 25 of the Donation leaderboard.\"", "BgColor": [243, 207, 155]},
-           {"Type": "Image", "Title": "Speed Clicker Nametag", "ImageID": "rbxassetid://131551835140967", "Description": "\"Given to Top 25 of the Clicks leaderboard.\"", "BgColor": [243, 207, 155]},
-           {"Type": "Image", "Title": "Eggcellent Nametag", "ImageID": "rbxassetid://111164626915979", "Description": "\"Given to Top 25 of the Egg leaderboard.\"", "BgColor": [243, 207, 155]},
-           {"Type": "Image", "Title": "Paradox Nametag", "ImageID": "rbxassetid://105774908669519", "Description": "\"Given to Top 25 of the Playtime leaderboard.\"", "BgColor": [243, 207, 155]},
-           
+        "Items": [
+          {"Type": "Text", "Text": "• <b><font color=\"#FFD700\">41 Unique Nametags</font></b> now available, organized into 7 categories: Common, Uncommon, Rare, <b>Legendary</b>, Event, <b>Exclusive</b>, and <b>Special</b>!", "Size": 16},
+          {"Type": "Text", "Text": "• 🏷️ Here are some of the nametags! 🏷️", "Size": 16},
+          {"Type": "Image", "Title": "67 Nametag", "ImageID": "rbxassetid://132046231946290", "Description": "\"Did someone say 67?\"", "BgColor": [243, 207, 155]},
+          {"Type": "Text", "Text": "• <b><font color=\"#FFD700\">🏆 Exclusive Leaderboard Nametags</font></b>", "Size": 20},
+          {"Type": "Image", "Title": "Wealthy Millionaire Nametag", "ImageID": "rbxassetid://99924532009980", "Description": "\"Given to Top 25 of the Donation leaderboard.\"", "BgColor": [243, 207, 155]},
+          {"Type": "Image", "Title": "Speed Clicker Nametag", "ImageID": "rbxassetid://131551835140967", "Description": "\"Given to Top 25 of the Clicks leaderboard.\"", "BgColor": [243, 207, 155]},
+          {"Type": "Image", "Title": "Eggcellent Nametag", "ImageID": "rbxassetid://111164626915979", "Description": "\"Given to Top 25 of the Egg leaderboard.\"", "BgColor": [243, 207, 155]},
+          {"Type": "Image", "Title": "Paradox Nametag", "ImageID": "rbxassetid://105774908669519", "Description": "\"Given to Top 25 of the Playtime leaderboard.\"", "BgColor": [243, 207, 155]},
           {"Type": "Text", "Text": "• <b>Speed Clicker</b>: Top 25 Clicks | <b>Wealthy Millionaire</b>: Top 25 Donators | <b>Eggcellent</b>: Top 25 Egg Makers | <b>Paradox</b>: Top 25 Playtime", "Size": 15},
           {"Type": "Text", "Text": "• <b><font color=\"#FF0000\">ERR_404</font></b>: [CRITICAL] System failure detected... (Admin Manual)", "Size": 15},
-    
           {"Type": "Text", "Text": "• <b>✨ Special Tags</b>", "Size": 18},
-          {"Type": "Text", "Text": "• <b>Alpha</b>: OG! (Joined before Part 3) | <b>Bees</b>: Group Exclusive!", "Size": 15},
-          {"Type": "Text", "Text": "• <b>Master</b>: Top 5 in ANY Leaderboard | <b>Legend</b>: Top 5 in at least 2 categories!", "Size": 15},
-    
-          {"Type": "Image", "Title": "Tag Preview Showcase", "ImageID": "rbxassetid://125717412075936", "Description": "\"A sneak peek at our new UI showcasing these rare titles!\"", "BgColor": [128, 187, 219]},
-    
+          {"Type": "Text", "Text": "• <b>Alpha</b>: OG! (Given to anyone who joined before Easter Part 3) | <b>Bees</b>: Group Exclusive!", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Master</b>: Top 15 in ANY Leaderboard | <b>Legend</b>: Top 5 in at least 2 categories!", "Size": 15},   
           {"Type": "Text", "Text": "• And there is <b><font color=\"#00FF00\">much more</font></b> to be obtained through Quests, Achievements, and Secret Codes! Keep exploring!", "Size": 16}
         ]
       },
@@ -162,7 +156,7 @@
           {"Type": "Image", "Title": "New Portal Emerges in World 3!", "ImageID": "rbxassetid://126620609596422", "Description": "\"Talk to the Scarecrow NPC to begin the new challenge!\"", "BgColor": [107, 50, 124]},
           {"Type": "Image", "Title": "Choose your own path!", "ImageID": "rbxassetid://122290567292370", "Description": "\"Whatever you choose determines your destiny...\"", "BgColor": [193, 223, 240]},
           {"Type": "Image", "Title": "Select Difficulty!", "ImageID": "rbxassetid://118543388903140", "Description": "\"Easy or Hard\"", "BgColor": [236, 236, 236]},
-          {"Type": "Text", "Text": "• Defeat harder modes for better rewards and a massive EXP multiplier!", "Size": 16}
+          {"Type": "Text", "Text": "• Defeat harder modes for better rewards!", "Size": 16}
         ]
       },
       {
@@ -171,6 +165,15 @@
           {"Type": "Text", "Text": "• New Lobby Again? Yes! We've fully optimized the spawn area for better performance.", "Size": 16},
           {"Type": "Text", "Text": "• Huge thanks to Omar for helping re-design the map layout structure!", "Size": 16},
           {"Type": "Image", "Title": "A Fresh Look", "ImageID": "rbxassetid://125717412075936", "Description": "\"Enjoy the new scenery and hidden secrets scattered around.\"", "BgColor": [128, 187, 219]}
+        ]
+      },
+      {
+        "SectionTitle": "💘 Valentines Event Reward!",
+        "Items": [
+          {"Type": "Text", "Text": "• Previous Event Reward has been given out!", "Size": 16},
+          {"Type": "Text", "Text": "• Top 10 Receives a Valentines Planter!", "Size": 16},
+          {"Type": "Text", "Text": "• Top 3 Receives their own nametag!", "Size": 16},
+          {"Type": "Image", "Title": "Here's a Look at Our Top 3", "ImageID": "rbxassetid://130911380590693", "Description": "\"Congrats to Brood (1st), Bhk (2nd), nasaapollo09 (3rd)\"", "BgColor": [128, 187, 219]}
         ]
       },
       {
@@ -191,7 +194,7 @@
       {
         "SectionTitle": "🔮 What's Next?",
         "Items": [
-          {"Type": "Image", "Title": "Easter Finale!", "ImageID": "rbxassetid://122123173691440", "Description": "\"The Final Journey is coming soon!\""},
+          {"Type": "Image", "Title": "Easter Finale!", "ImageID": "rbxassetid://122123173691440", "Description": "\"The Final Journey is coming soon!\"", "BgColor": [40, 40, 40]},
           {"Type": "Image", "Title": "????", "ImageID": "rbxassetid://71961913510293", "Description": "\"BBM is here...\"", "BgColor": [245, 205, 48]}
         ]
       }
