@@ -51,15 +51,25 @@
     "BannerImage": "rbxassetid://71961913510293",
     "HeaderText": "✨ NEW UPDATE (05/30/2026) ✨",
     "Sections": [
-      {
-        "SectionTitle": "🥚 New Event Eggs",
+       {
+        "SectionTitle": "🥚 New Event Eggs & Cosmic Gear",
         "Items": [
-          {"Type": "Header", "Text": "🔥 MAJOR BUFFS", "Color": [255, 255, 255], "BgColor": [222, 135, 63]},
-          {"Type": "Image", "Title": "Tree EGG", "ImageID": "rbxassetid://129527736120287", "Description": "\"Test\"", "BgColor": [255, 85, 255]},
-
-          {"Type": "Text", "Text": "• <b>Old Buffs:</b> <font color=\"#FF5555\">x1.5, x2, x2.5, x3, x4, x5</font>", "Size": 16},
-          {"Type": "Text", "Text": "• <b>New Buffs:</b> <font color=\"#55FF55\">x3, x5, x10, x25, x50, x100</font>", "Size": 16},
-          {"Type": "Text", "Text": "• <b>Secret Buff:</b> <font color=\"#55FF55\">x1000 Egg Boost</font> (1 in 100,000)", "Size": 16}
+          {"Type": "Header", "Text": "🌟 THE ULTIMATE EGG HUNT PUZZLES", "Color": [255, 255, 255], "BgColor": [107, 50, 124]},
+          {"Type": "Image", "Title": "Tree Egg Quest", "ImageID": "rbxassetid://129527736120287", "Description": "\"Talk to Contest Bear and start looking closely! Count all 65 trees hidden around the map, then use the secret math code 0975 (65x15) to unlock the exclusive Tree Nametag. Equip it to solve the riddle, breach the sewer gates, and claim your egg!\"", "BgColor": [45, 138, 71]},
+          {"Type": "Image", "Title": "Space Egg (Galaxy Egg)", "ImageID": "rbxassetid://78908608695049", "Description": "\"The stars have aligned! Complete all 15 Contest Bear questlines to unlock purchasing rights for the Apollo Command Helmet. Equip your gear, blast off into orbit, and navigate deep space to hunt down this celestial artifact!\"", "BgColor": [28, 40, 99]},
+    
+          {"Type": "Header", "Text": "🚀 EVENT EXCLUSIVE GEAR", "Color": [255, 255, 255], "BgColor": [53, 94, 121]},
+          {"Type": "Text", "Text": "• <b>Apollo Command Helmet:</b> <i>'A relic from the Sea of Tranquility. One small click for a farmer, one giant leap for your collection!'</i>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Perks:</b> <font color=\"#55FF55\">4x Eggs</font> per click & <font color=\"#55FF55\">5% Seed Discount</font>!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Price:</b> 280 Sextillion Coins", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Materials Requirements:</b> 619x Strawberry | 619x Blueberry | 456x Sunflower | 31x Marshmallow Bee | 7x Star Egg Fragment #1", "Size": 14},
+          
+          {"Type": "Header", "Text": "🐝 THE FINAL SHOWDOWN: BBM", "Color": [255, 255, 255], "BgColor": [180, 40, 40]},
+          {"Type": "Image", "Title": "Final Quest.", "ImageID": "rbxassetid://71961913510293", "Description": "\"Bumble Bee Man has arrived as the ultimate challenge. Track down and collect all 11 event eggs to qualify for his grueling final challenge loop!\"", "BgColor": [245, 205, 48]},
+          {"Type": "Text", "Text": "• <b>🏆 Grand Finale Completion Rewards:</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <font color=\"#55FF55\"><b>+1 Free Egg Level</b></font> permanently added to your stats!", "Size": 16},
+          {"Type": "Text", "Text": "• <font color=\"#55FF55\"><b>Massive x5 Egg Boost</b></font> completely active for 1 Whole Day (24 Hours)!", "Size": 16},
+          {"Type": "Text", "Text": "• 🔮 Completing this finale locks in early priority access to insanely overpowered upcoming rewards for the <b>Skill Tree Update</b> dropping in the near future!", "Size": 15}
         ]
       },
       {
