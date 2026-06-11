@@ -15,7 +15,7 @@
           {"Type": "Image", "Title": "Claim Your Reward", "ImageID": "rbxassetid://134338968694109", "Description": "\"Talk to the NPC near the leaderboards. Event lasts for 2 weeks!\"", "BgColor": [222, 135, 63]},
           {"Type": "Text", "Text": "<b>🎁 10K CELEBRATION REWARDS:</b>", "Size": 16},
           {"Type": "Text", "Text": "• Unlocks Exclusive <font color=\"#FFD700\"><b>[10k Visits] Nametag</b></font> (Limited-Time!)", "Size": 14},
-          {"Type": "Text", "Text": "• <font color=\"#FF55FF\"><b>x10 Marshmallow Bees</b></font>", "Size": 14},
+          {"Type": "Text", "Text": "• <font color=\"#FF55FF\"><b>+10 Marshmallow Bees</b></font>", "Size": 14},
           {"Type": "Text", "Text": "• <font color=\"#55FFFF\"><b>+2 Star Egg Fragment #1</b></font>", "Size": 14},
           {"Type": "Text", "Text": "• <font color=\"#55FF55\"><b>12-Hour Free Boost</b></font> (x2 Egg Multiplier!)", "Size": 14}
         ]
@@ -36,7 +36,7 @@
           {"Type": "Text", "Text": "• <b>Global Boost:</b> <font color=\"#FFD700\">x2 Bunny Shop EXP</font> is now LIVE!", "Size": 16},
           {"Type": "Text", "Text": "• The <b>Easter Event</b> is entering its final stage—get your rewards before it ends!", "Size": 16},
           {"Type": "Image", "Title": "Easter Final Farewell", "ImageID": "rbxassetid://91922373956607", "Description": "\"The festivities are leaving soon!\"", "BgColor": [170, 85, 255]},
-          {"Type": "Image", "Title": "World 3: Spirit Balances", "ImageID": "rbxassetid://104482408831809", "Description": "\"The Spirit Era is coming to an end. Get ready for what's next!\"", "BgColor": [85, 255, 170]}
+          {"Type": "Image", "Title": "World 3 Part 2: Coming Soon..", "ImageID": "rbxassetid://104482408831809", "Description": "\"The Spirit Era is coming to an end. Get ready for what's next!\"", "BgColor": [85, 255, 170]}
         ]
       }
     ],
