@@ -1,55 +1,268 @@
 [
   {
-    "Name": "Placeholder Update 4",
-    "Version": "Pre Alpha V.0.5a",
+    "Name": "Easter Finale",
+    "Version": "Pre Alpha V.0.4.2",
     "SortOrder": 9,
-    "Title": "New System Mechanics!",
+    "Title": "Bumble Bee Man is here!",
     "Color": [255, 85, 255],
-    "BannerImage": "",
-    "Changelog": [
-      {"Type": "Text", "Text": "✨ UPDATE (06/15/2026) ✨", "Size": 24, "Bold": true},
-      {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
-      {"Type": "Image", "Title": "New Mechanics Showcase", "ImageID": "rbxassetid://0", "Description": "\"Details regarding the new mechanics implementation.\""}
-    ]
+    "BannerImage": "rbxassetid://71961913510293",
+    "HeaderText": "✨ NEW UPDATE (05/30/2026) ✨",
+    "Sections": [
+      {
+        "SectionTitle": "🎒 Inventory GUI",
+        "Items": [
+          {"Type": "Text", "Text": "• The Long Awaited Inventory GUI is here!", "Size": 16},
+          {"Type": "Text", "Text": "• Unlocks the nametag through Quests and Achievements! (More Will Be Available in Near Future!)", "Size": 16},
+          {"Type": "Image", "Title": "Yes", "ImageID": "rbxassetid://1234567890", "Description": "\"Please note that currently nametag is available but more will be coming to in future! such as codes, player stats, consumables\"", "BgColor": [40, 40, 40]},
+          {"Type": "Text", "Text": "• Everyone who joined before this update drop will receive the exclusive Alpha nametag!", "Size": 16},
+          {"Type": "Text", "Text": "• Easily equip, unequip, and preview how items look on your character.", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "✒️ Blackhole Obby & Egg!",
+        "Items": [
+          {"Type": "Text", "Text": "• Talk to the Scarecrow NPC to begin the new challenge!", "Size": 16},
+          {"Type": "Image", "Title": "Choose your own path!", "ImageID": "rbxassetid://1234567890", "Description": "\"Whatever you choose determines your destiny...\"", "BgColor": [40, 40, 40]},
+          {"Type": "Text", "Text": "• Navigate through rotating platforms, fading blocks, and zero-gravity jumps.", "Size": 16},
+          {"Type": "Image", "Title": "Get to the top!", "ImageID": "rbxassetid://1234567890", "Description": "\"Why is the tower so high...\"", "BgColor": [40, 40, 40]},
+          {"Type": "Text", "Text": "• Defeat harder modes for better rewards and a massive EXP multiplier!", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "✒️ Lobby Overhaul!",
+        "Items": [
+          {"Type": "Text", "Text": "• New Lobby Again? Yes! We've fully optimized the spawn area for better performance.", "Size": 16},
+          {"Type": "Text", "Text": "• Huge thanks to Omar for helping re-design the central plaza structure!", "Size": 16},
+          {"Type": "Image", "Title": "A Fresh Look", "ImageID": "rbxassetid://1234567890", "Description": "\"Enjoy the new scenery and hidden secrets scattered around.\"", "BgColor": [40, 40, 40]}
+        ]
+      },
+      {
+        "SectionTitle": "⚖️ Balance Changes",
+        "Items": [
+          {"Type": "Text", "Text": "• Rebalanced early-game seed costs so new players can progress smoother.", "Size": 16},
+          {"Type": "Text", "Text": "• Slightly nerf Black Bear quests to be easier to complete!", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "🛠️ Bug Fixes",
+        "Items": [
+          {"Type": "Text", "Text": "• Fixed an issue where the Chat filter feature was breaking.", "Size": 16},
+          {"Type": "Text", "Text": "• Patched a collision bug with the Contest Bear NPCs.", "Size": 16},
+          {"Type": "Text", "Text": "• Special thanks to @Omarplanet1 for optimizing the game!", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "🔮 What's Next?",
+        "Items": [
+          {"Type": "Text", "Text": "• A Familiar Face emerges!", "Size": 16},
+          {"Type": "Image", "Title": "It's you??", "ImageID": "rbxassetid://1234567890", "Description": "\"BBM is here...\"", "BgColor": [40, 40, 40]},
+          {"Type": "Image", "Title": "All 12 Event eggs", "ImageID": "rbxassetid://122123173691440", "Description": "\"The Full Egg Family Tree is coming soon!\""}
+        ]
+      }
+    ],
+    "FooterText": "🐝 Easter Finale coming soon!"
   },
   {
-    "Name": "Placeholder Update 3",
-    "Version": "Pre Alpha V.0.5",
-    "SortOrder": 8,
-    "Title": "Major Content Drop!",
-    "Color": [85, 255, 127],
-    "BannerImage": "",
-    "Changelog": [
-      {"Type": "Text", "Text": "✨ MAJOR UPDATE (06/01/2026) ✨", "Size": 24, "Bold": true},
-      {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
-      {"Type": "Image", "Title": "New Content Unlocked", "ImageID": "rbxassetid://0", "Description": "\"Take a look at the expansion elements added today!\""}
-    ]
-  },
-  {
-    "Name": "Placeholder Update 2",
-    "Version": "Pre Alpha V.0.4a",
-    "SortOrder": 7,
-    "Title": "Balance Changes & Optimizations",
-    "Color": [255, 170, 0],
-    "BannerImage": "",
-    "Changelog": [
-      {"Type": "Text", "Text": "✨ PATCH NOTES (05/15/2026) ✨", "Size": 24, "Bold": true},
-      {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
-      {"Type": "Image", "Title": "Balancing Adjustments", "ImageID": "rbxassetid://0", "Description": "\"We've fine-tuned early game progressions for better pacing.\""}
-    ]
-  },
-  {
-    "Name": "Placeholder Update 1",
+    "Name": "Inventory",
     "Version": "Pre Alpha V.0.4",
+    "SortOrder": 8,
+    "Title": "Easter Part 3 in disguise!",
+    "Color": [255, 85, 255],
+    "BannerImage": "rbxassetid://125717412075936",
+    "HeaderText": "✨ What's New? (05/16/2026) ✨",
+    "Sections": [
+      {
+        "SectionTitle": "Update Log improvement!",
+        "Items": [
+          {"Type": "Text", "Text": "• New Update log lol.", "Size": 18},
+          {"Type": "Text", "Text": "• Update log has been moved to <font color=\"#FFD700\">Extras</font> tab in<b><font color=\"#FFD700\"> Settings GUI.</font></b>", "Size": 18}
+
+        ]
+      },
+      {
+        "SectionTitle": "🎒 Inventory GUI",
+        "Items": [
+          {"Type": "Text", "Text": "• The Long Awaited Inventory GUI is here!", "Size": 16},
+          {"Type": "Text", "Text": "• Unlocks the nametag through Quests and Achievements! (More Will Be Available in Near Future!)", "Size": 16},
+          {"Type": "Image", "Title": "Nametag Inventory Preview", "ImageID": "rbxassetid://127622711767883", "Description": "\"Please note that currently nametag is available but more will be coming to in future! such as codes, player stats, consumables\"", "BgColor": [40, 40, 40]},
+          {"Type": "Text", "Text": "• Everyone who joined before this update drop will receive the exclusive Alpha nametag!", "Size": 16},
+          {"Type": "Text", "Text": "• Easily equip, unequip, and preview how items look on your character.", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "🏷️ Nametag Overhaul & Leaderboard Rewards",
+         "Items": [
+           {"Type": "Text", "Text": "• <b><font color=\"#FFD700\">41 Unique Nametags</font></b> now available, organized into 7 categories: Common, Uncommon, Rare, <b>Legendary</b>, Event, <b>Exclusive</b>, and <b>Special</b>!", "Size": 16},
+           {"Type": "Text", "Text": "• 🏷️ Here are some of the nametag! 🏷️ ", "Size": 16},
+           {"Type": "Image", "Title": "67 Nametag", "ImageID": "rbxassetid://132046231946290", "Description": "\"Did someone say 67?\"", "BgColor": [243, 207, 155]},
+           {"Type": "Text", "Text": "• <b><font color=\"#FFD700\">🏆 Exclusive Leaderboard Nametag </font></b>", "Size": 20},
+           {"Type": "Image", "Title": "Wealthy Millionare Nametag", "ImageID": "rbxassetid://99924532009980", "Description": "\"Given to Top 25 of the Donation leaderboard.\"", "BgColor": [243, 207, 155]},
+           {"Type": "Image", "Title": "Speed Clicker Nametag", "ImageID": "rbxassetid://131551835140967", "Description": "\"Given to Top 25 of the Clicks leaderboard.\"", "BgColor": [243, 207, 155]},
+           {"Type": "Image", "Title": "Eggcellent Nametag", "ImageID": "rbxassetid://111164626915979", "Description": "\"Given to Top 25 of the Egg leaderboard.\"", "BgColor": [243, 207, 155]},
+           {"Type": "Image", "Title": "Paradox Nametag", "ImageID": "rbxassetid://105774908669519", "Description": "\"Given to Top 25 of the Playtime leaderboard.\"", "BgColor": [243, 207, 155]},
+           
+          {"Type": "Text", "Text": "• <b>Speed Clicker</b>: Top 25 Clicks | <b>Wealthy Millionaire</b>: Top 25 Donators | <b>Eggcellent</b>: Top 25 Egg Makers | <b>Paradox</b>: Top 25 Playtime", "Size": 15},
+          {"Type": "Text", "Text": "• <b><font color=\"#FF0000\">ERR_404</font></b>: [CRITICAL] System failure detected... (Admin Manual)", "Size": 15},
+    
+          {"Type": "Text", "Text": "• <b>✨ Special Tags</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <b>Alpha</b>: OG! (Joined before Part 3) | <b>Bees</b>: Group Exclusive!", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Master</b>: Top 5 in ANY Leaderboard | <b>Legend</b>: Top 5 in at least 2 categories!", "Size": 15},
+    
+          {"Type": "Image", "Title": "Tag Preview Showcase", "ImageID": "rbxassetid://125717412075936", "Description": "\"A sneak peek at our new UI showcasing these rare titles!\"", "BgColor": [128, 187, 219]},
+    
+          {"Type": "Text", "Text": "• And there is <b><font color=\"#00FF00\">much more</font></b> to be obtained through Quests, Achievements, and Secret Codes! Keep exploring!", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "✒️ Blackhole Obby & Egg!",
+        "Items": [
+          {"Type": "Image", "Title": "New Portal Emerges in World 3!", "ImageID": "rbxassetid://126620609596422", "Description": "\"Talk to the Scarecrow NPC to begin the new challenge!\"", "BgColor": [107, 50, 124]},
+          {"Type": "Image", "Title": "Choose your own path!", "ImageID": "rbxassetid://122290567292370", "Description": "\"Whatever you choose determines your destiny...\"", "BgColor": [193, 223, 240]},
+          {"Type": "Image", "Title": "Select Difficulty!", "ImageID": "rbxassetid://118543388903140", "Description": "\"Easy or Hard\"", "BgColor": [236, 236, 236]},
+          {"Type": "Text", "Text": "• Defeat harder modes for better rewards and a massive EXP multiplier!", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "🏝️ Lobby Overhaul!",
+        "Items": [
+          {"Type": "Text", "Text": "• New Lobby Again? Yes! We've fully optimized the spawn area for better performance.", "Size": 16},
+          {"Type": "Text", "Text": "• Huge thanks to Omar for helping re-design the map layout structure!", "Size": 16},
+          {"Type": "Image", "Title": "A Fresh Look", "ImageID": "rbxassetid://125717412075936", "Description": "\"Enjoy the new scenery and hidden secrets scattered around.\"", "BgColor": [128, 187, 219]}
+        ]
+      },
+      {
+        "SectionTitle": "⚖️ Balance Changes",
+        "Items": [
+          {"Type": "Text", "Text": "• Rebalanced early-game seed costs so new players can progress smoother.", "Size": 16},
+          {"Type": "Text", "Text": "• Slightly nerf Black Bear quests to be easier to complete!", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "🛠️ Bug Fixes",
+        "Items": [
+          {"Type": "Text", "Text": "• Fixed an issue where the Chat filter feature was breaking.", "Size": 16},
+          {"Type": "Text", "Text": "• Patched a collision bug with the Contest Bear NPCs.", "Size": 16},
+          {"Type": "Text", "Text": "• Special thanks to @Omarplanet1 for optimizing the game!", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "🔮 What's Next?",
+        "Items": [
+          {"Type": "Image", "Title": "Easter Finale!", "ImageID": "rbxassetid://122123173691440", "Description": "\"The Final Journey is coming soon!\""},
+          {"Type": "Image", "Title": "????", "ImageID": "rbxassetid://71961913510293", "Description": "\"BBM is here...\"", "BgColor": [245, 205, 48]}
+        ]
+      }
+    ],
+    "FooterText": "🐝 Buzz Buzz"
+  },
+  {
+   "Name": "Bunny Merchant 🐰",
+    "Version": "Pre Alpha V.0.3.8",
     "SortOrder": 6,
-    "Title": "The Next Chapter!",
-    "Color": [255, 255, 255],
-    "BannerImage": "",
+    "Title": "Bunny Merchant & Group Minigame!",
+    "Color": [255, 85, 255],
+    "BannerImage": "rbxassetid://125170904914793",
     "Changelog": [
-      {"Type": "Text", "Text": "✨ UPDATE NOTES (05/01/2026) ✨", "Size": 24, "Bold": true},
-      {"Type": "Text", "Text": "• Feature description goes here", "Size": 16, "Bold": true},
-      {"Type": "Image", "Title": "New Event Arrival", "ImageID": "rbxassetid://0", "Description": "\"A massive temporary event zone is now open at spawn!\""}
-    ]
+      {"Type": "Text", "Text": "✨ PATCH NOTES (04/25/2026) ✨", "Size": 24, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "Bunny Merchant 🐰",
+        "ImageID": "rbxassetid://125170904914793",
+        "Description": "\"Unlocks at 100k Easter Points! Enjoy a x1.5 Weekend EXP Boost (Fri-Sun UTC).\""
+      },
+      {"Type": "Text", "Text": "🛠️ System Adjustments", "Size": 22, "Bold": true},
+      {
+        "Type": "Image",
+        "Title": "Improved Settings GUI",
+        "ImageID": "rbxassetid://116821563795380",
+        "Description": "\"Cleaned up and separated into 4 smaller categories: Graphics, Gameplay, Sounds, and Extras!\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Plinko Minigame",
+        "ImageID": "rbxassetid://138349224476352",
+        "Description": "\"Group Exclusive! (Available Every 30 Minutes)\""
+      },
+      {
+        "Type": "Image",
+        "Title": "Boost GUI 🧱",
+        "ImageID": "rbxassetid://72912294874006",
+        "Description": "\"You can now View Your Active Boosts!\""
+      },
+      {"Type": "Text", "Text": "📈 Bunny Progression Shop Rewards", "Size": 22, "Bold": true},
+      {"Type": "Text", "Text": "• Lv. 0 🟫 Dirt Digging (100 EXP) | +25 EXP/Item | Free Gift Slot #1 (24h) | 1 Shop Slot", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 1 ⚙️ Iron Root (250 EXP) | Faster Free Gift (20h)", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 2 🧱 Copper Leaf (600 EXP) | +35 EXP/Item | +1 Shop Slot | Faster Free Gift (18h)", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 3 🥉 Bronze Berry (1,200 EXP) | 2.5h Shop Refresh | Faster Free Gift (15h)", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 4 🥈 Silver Sack (2,456 EXP) | +50 EXP/Item | 12h Free Gift | x1.2 Free Item EXP", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 5 🥇 Golden Guard (4,600 EXP) | +60 EXP/Item | +1 Shop Slot | 10h Free Gift", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 6 💿 Platinum Petal (10,000 EXP) | +85 EXP/Item | 2h Shop Refresh | 8h Free Gift", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 7 🟢 Emerald Vine (15,000 EXP) | +100 EXP/Item | +1 Shop Slot | Hidden Stocks I (5% No-Consume)", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 8 🔵 Sapphire Seed (22,002 EXP) | +120 EXP/Item | Unlocks Discount Slot (5% Max) | 6h Free Gift", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 9 🔴 Ruby Rose (28,012 EXP) | 1.5h Shop Refresh | 8% Max Discount | 4h Free Gift", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 10 🔍 Diamond Hunter (37,541 EXP) | Keep the Changes I (5% Refund) | +1 Shop Slot | 12% Max Discount", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 11 🍀 Crystal Clover (54,842 EXP) | +220 EXP/Item | 2 Free Gift Slots | 3h Free Gift", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 12 🟠 Amber Antler (73,541 EXP) | +250 EXP/Item | +1 Shop Slot (MAX) | 18% Max Disc | x3 Free EXP", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 13 ✨ Star Spirit (89,653 EXP) | +300 EXP/Item | 1h Shop Refresh | 22% Max Discount", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 14 🏆 Elite Merchant (110,444 EXP) | 3h Free Gift | 25% Max Discount | x5 Free Item EXP", "Size": 15},
+      {"Type": "Text", "Text": "• Lv. 15 👑 GRANDMASTER | +1000 EXP/Item | Keep the Changes II (10% Refund) | Hidden Stocks II (15% No-Consume) | 40% Max Discount | x10 Free Item EXP", "Size": 15},
+      {"Type": "Text", "Text": "💡 Mechanics Explained", "Size": 18, "Bold": true},
+      {"Type": "Text", "Text": "• Hidden Stocks: A chance that an item won't be removed from the shop after purchase, letting you buy it again!", "Size": 14},
+      {"Type": "Text", "Text": "• Keep the Changes: Your Bunny friend has a chance to return a percentage of the currency you spent.", "Size": 14},
+      {"Type": "Text", "Text": "• Free Multiplier: Higher tiers drastically boost the EXP earned from claiming your daily freebies.", "Size": 14},
+      {"Type": "Text", "Text": "📢 Notice", "Size": 18, "Bold": true},
+      {"Type": "Text", "Text": "• More adjustments to the game performance! (it should feel smoother to play the game now!)", "Size": 15, "Bold": true},
+      {"Type": "Text", "Text": "• Brand new updates and changes are coming your way soon!", "Size": 15, "Bold": true}
+    ],
+    "FooterText": "Enjoy the Update!"
+  },
+  {
+    "Name": "Easter Part 1",
+    "Version": "Pre Alpha V.0.3.5",
+    "SortOrder": 6,
+    "Title": "Easter Event Yippe!",
+    "Color": [255, 85, 255],
+    "BannerImage": "rbxassetid://107678347314402",
+    "Changelog": [
+      {"Type": "Text", "Text": "✨ What's New? (04/14/2026) ✨", "Size": 24, "Bold": true},
+      {"Type": "Image","Title": "✨ New Event Arrival ✨", "ImageID": "rbxassetid://107678347314402", "Description": "\"A massive temporary event zone is now open at spawn!\""},
+      {"Type": "Text", "Text": "🚀 Event World", "Size": 22, "Bold": true},
+      {"Type": "Image", "Title": "Nice Blue and Cozy!", "ImageID": "rbxassetid://74095627818919", "Description": "\"Enjoy!\""},
+      {"Type": "Text", "Text": "🐻 Contest Bear NPC", "Size": 22, "Bold": true},
+      {"Type": "Image", "Title": "🐻 New Event Bear Arrival 🐻", "ImageID": "rbxassetid://82057110366801", "Description": "\"Complete the first 10 questlines to earn the exclusive Crowned Egg!\""},
+      {"Type": "Text", "Text": "🥚 The Great Egg Hunt", "Size": 22, "Bold": true},
+      {"Type": "Text", "Text": "• Discover 12 Special Eggs hidden around the map for a massive event buff! (8 Available in Part 1)", "Size": 16},
+      {"Type": "Image","Title": "🥚", "ImageID": "rbxassetid://115104590413938", "Description": "\"A list on how to get them is available below!\""},
+      {"Type": "Text","Text": "🟢 EASY TIER","Size": 18,"Bold": true},
+      {"Type": "Text","Text": "• Noob Egg: 1 in 1,000 chance from clicking the main egg.","Size": 15},
+      {"Type": "Text","Text": "• Cloud Egg: Count the clouds in the sky... or just enter code 0023!","Size": 15},
+      {"Type": "Text", "Text": "• Easter Basket: A rare drop from the brand new Easter Egg at spawn.","Size": 15},  
+      {"Type": "Text","Text": "• Chocolate Egg: Hidden somewhere inside the Event World.","Size": 15},
+      {"Type": "Text","Text": "🟡 MEDIUM TIER","Size": 18,"Bold": true},
+      {"Type": "Text","Text": "• Tribe Egg: A rare drop (1/2.5k) from collecting Eggs in the Event World.","Size": 15},
+      {"Type": "Text", "Text": "• AFK Egg: Stand perfectly still and do nothing for 20 minutes.", "Size": 15},
+      {"Type": "Text","Text": "• Crowned Egg: Finish the first 10 Contest Bear questlines.","Size": 15},
+      {"Type": "Text","Text": "• Pumpkin Egg: Finish the Scarecrow's questline.","Size": 15},
+      {"Type": "Text","Text": "✨ HARD TIER+","Size": 18,"Bold": true},
+      {"Type": "Text", "Text": "• Coming Soon", "Size": 16},
+      {"Type": "Text","Text": "🏆 New Event Achievements","Size": 22,"Bold": true},
+      {"Type": "Image","Title": "🏆 Easter 2026","ImageID": "rbxassetid://112070580541509","Description": "\"New limited-time achievements are here! Can you complete them all?\""},
+      {"Type": "Text", "Text": "🎃 Scarecrow NPC", "Size": 22, "Bold": true},
+      {"Type": "Image", "Title": "🎃 Lost in April 🎃 ", "ImageID": "rbxassetid://89523578396642", "Description": "\"Halloween in Easter?? Track down the Scarecrow to unlock the Pumpkin Egg!\""},
+      {"Type": "Text", "Text": "📊 Community Milestones", "Size": 22, "Bold": true},
+      {"Type": "Image", "Title": "📊 Easter Point Milestone 📊", "ImageID": "rbxassetid://99189087390977", "Description": "\"Work together to earn Easter Points for Egg multipliers and special rewards!\""},
+      {"Type": "Text", "Text": "⚙️ Gear Buffs & Rebalances", "Size": 22, "Bold": true},
+      {"Type": "Text", "Text": "• Helmet & Belt Pocket: x1.5 -> x2 Eggs", "Size": 15},
+      {"Type": "Text", "Text": "• Basic Boots: x2 -> x3 Eggs", "Size": 15},
+      {"Type": "Text", "Text": "• Left Bomber Guard: x1.25 -> x2 Eggs | Click Power +3% of EPS", "Size": 15},
+      {"Type": "Text", "Text": "• Right Hasty Guard: x1.25 -> x2 Eggs | Blender speed x1.1 faster", "Size": 15},
+      {"Type": "Text", "Text": "🛠️ Bug Fixes", "Size": 22, "Bold": true},
+      {"Type": "Text", "Text": "• Patched the Infinite Star Egg Stack glitch", "Size": 15},
+      {"Type": "Text", "Text": "• Fixed an issue where Boosts were not expiring", "Size": 15},
+      {"Type": "Text", "Text": "👀 Sneak Peek...","Size": 22,"Bold": true},
+      {"Type": "Image", "Title": "What's coming next?!","ImageID": "rbxassetid://125170904914793","Description": "\"A mysterious new friend might be setting up shop soon... Stay tuned for Part 2!\""}
+    ],
+    "FooterText": "Enjoy the Update!"
   },
   {
     "Name": "World 3 & Quests!",
@@ -124,7 +337,8 @@
         "ImageID": "rbxassetid://107678347314402",
         "Description": "\"Something colorful is hiding in the tall grass. Get your baskets ready for the Easter Event!\""
       }
-    ]
+    ],
+    "FooterText": "Enjoy the Update!"
   },
   {
     "Name": "Auto Rejoin Rework!",
@@ -134,7 +348,7 @@
     "Color": [255, 255, 127],
     "BannerImage": "",
     "Changelog": [
-      {"Type": "Text", "Text": "✨ What's New? (03/15/2026) ✨", Size: 24, "Bold": true},
+      {"Type": "Text", "Text": "✨ What's New? (03/15/2026) ✨", "Size": 24, "Bold": true},
       {"Type": "Text", "Text": "• Add the portal effect & zone area for when teleporting to somewhere", "Size": 16, "Bold": true},
       {"Type": "Text", "Text": "• Fixed Shop prices & Nerfing seed price for early game", "Size": 16, "Bold": true},
       {"Type": "Text", "Text": "• Some items in the shop has been reduced in order to make room for next update!", "Size": 16, "Bold": true},
@@ -147,7 +361,8 @@
       {"Type": "Text", "Text": "• Reverted lobby back to original. Thank you for participating the event", "Size": 16, "Bold": true},
       {"Type": "Text", "Text": "• Valentines reward will be given out in the next major update", "Size": 16, "Bold": true},
       {"Type": "Text", "Text": "We hope you enjoy this small update while waiting for something huge.", "Size": 16, "Bold": true}
-    ]
+    ],
+    "FooterText": "Enjoy the Update!"
   },
   {
     "Name": "Settings GUI & Name Tag",
@@ -185,7 +400,7 @@
       {
         "Type": "Image",
         "Title": "Void is now easily accesible for everyone",
-        "ImageID = ": "rbxassetid://135770953851340",
+        "ImageID": "rbxassetid://135770953851340",
         "Description": "\"Nerfing the requirement from 1,000T (1Qa) -> 100B Total Eggs\""
       },
       {"Type": "Text", "Text": "We've decided to change this in order to make room for upcoming world 3", "Size": 18, "Bold": true},
@@ -210,7 +425,8 @@
         "ImageID": "rbxassetid://105258406309042",
         "Description": "\"We are changing from weekly update to bi-weekly update!\""
       }
-    ]
+    ],
+    "FooterText": "Enjoy the Update!"
   },
   {
     "Name": "Qol improvement",
@@ -227,7 +443,8 @@
         "ImageID": "rbxassetid://122434178239170",
         "Description": "\"The game rejoin automatically after you afk for a while.\""
       }
-    ]
+    ],
+    "FooterText": "Enjoy the Update!"
   },
   {
     "Name": "Lovely Harvest ❤️",
@@ -367,6 +584,7 @@
       {"Type": "Text", "Text": "✨ Happy Birthday to Spirit! today is his birthday (February 28th) ✨", "Size": 24, "Bold": true},
       {"Type": "Text", "Text": "✨ Also sorry for the late update! The update is larger than we anticipated! - Spirit & Omar ✨", "Size": 24, "Bold": true},
       {"Type": "Text", "Text": "✨ join the community server for leaks and when the next update is released! ✨", "Size": 24, "Bold": true}
-    ]
+    ],
+    "FooterText": "You have reached the first major update!"
   }
 ]
