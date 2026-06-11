@@ -52,6 +52,17 @@
     "HeaderText": "✨ NEW UPDATE (05/30/2026) ✨",
     "Sections": [
       {
+        "SectionTitle": "🥚 New Event Eggs",
+        "Items": [
+          {"Type": "Header", "Text": "🔥 MAJOR BUFFS", "Color": [255, 255, 255], "BgColor": [222, 135, 63]},
+          {"Type": "Image", "Title": "Tree EGG", "ImageID": "rbxassetid://129527736120287", "Description": "\"Test\"", "BgColor": [255, 85, 255]},
+
+          {"Type": "Text", "Text": "• <b>Old Buffs:</b> <font color=\"#FF5555\">x1.5, x2, x2.5, x3, x4, x5</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>New Buffs:</b> <font color=\"#55FF55\">x3, x5, x10, x25, x50, x100</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Secret Buff:</b> <font color=\"#55FF55\">x1000 Egg Boost</font> (1 in 100,000)", "Size": 16}
+        ]
+      },
+      {
         "SectionTitle": "⚖️ Plinko Machine Balance Changes",
         "Items": [
           {"Type": "Text", "Text": "• <b>Old Buffs:</b> <font color=\"#FF5555\">x1.5, x2, x2.5, x3, x4, x5</font>", "Size": 16},
