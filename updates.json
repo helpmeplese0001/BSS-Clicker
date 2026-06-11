@@ -52,58 +52,48 @@
     "HeaderText": "✨ NEW UPDATE (05/30/2026) ✨",
     "Sections": [
       {
-        "SectionTitle": "🎒 Inventory GUI",
+        "SectionTitle": "⚖️ Plinko Machine Balance Changes",
         "Items": [
-          {"Type": "Text", "Text": "• The Long Awaited Inventory GUI is here!", "Size": 16},
-          {"Type": "Text", "Text": "• Unlocks the nametag through Quests and Achievements! (More Will Be Available in Near Future!)", "Size": 16},
-          {"Type": "Image", "Title": "Yes", "ImageID": "rbxassetid://1234567890", "Description": "\"Please note that currently nametag is available but more will be coming to in future! such as codes, player stats, consumables\"", "BgColor": [40, 40, 40]},
-          {"Type": "Text", "Text": "• Everyone who joined before this update drop will receive the exclusive Alpha nametag!", "Size": 16},
-          {"Type": "Text", "Text": "• Easily equip, unequip, and preview how items look on your character.", "Size": 16}
+          {"Type": "Text", "Text": "• <b>Old Buffs:</b> <font color=\"#FF5555\">x1.5, x2, x2.5, x3, x4, x5</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>New Buffs:</b> <font color=\"#55FF55\">x3, x5, x10, x25, x50, x100</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Secret Buff:</b> <font color=\"#55FF55\">x1000 Egg Boost</font> (1 in 100,000)", "Size": 16}
         ]
       },
       {
-        "SectionTitle": "✒️ Blackhole Obby & Egg!",
+        "SectionTitle": "🐰 Bunny Merchant Balance Changes",
         "Items": [
-          {"Type": "Text", "Text": "• Talk to the Scarecrow NPC to begin the new challenge!", "Size": 16},
-          {"Type": "Image", "Title": "Choose your own path!", "ImageID": "rbxassetid://1234567890", "Description": "\"Whatever you choose determines your destiny...\"", "BgColor": [40, 40, 40]},
-          {"Type": "Text", "Text": "• Navigate through rotating platforms, fading blocks, and zero-gravity jumps.", "Size": 16},
-          {"Type": "Image", "Title": "Get to the top!", "ImageID": "rbxassetid://1234567890", "Description": "\"Why is the tower so high...\"", "BgColor": [40, 40, 40]},
-          {"Type": "Text", "Text": "• Defeat harder modes for better rewards and a massive EXP multiplier!", "Size": 16}
-        ]
-      },
-      {
-        "SectionTitle": "✒️ Lobby Overhaul!",
-        "Items": [
-          {"Type": "Text", "Text": "• New Lobby Again? Yes! We've fully optimized the spawn area for better performance.", "Size": 16},
-          {"Type": "Text", "Text": "• Huge thanks to Omar for helping re-design the central plaza structure!", "Size": 16},
-          {"Type": "Image", "Title": "A Fresh Look", "ImageID": "rbxassetid://1234567890", "Description": "\"Enjoy the new scenery and hidden secrets scattered around.\"", "BgColor": [40, 40, 40]}
-        ]
-      },
-      {
-        "SectionTitle": "⚖️ Balance Changes",
-        "Items": [
-          {"Type": "Text", "Text": "• Rebalanced early-game seed costs so new players can progress smoother.", "Size": 16},
-          {"Type": "Text", "Text": "• Slightly nerf Black Bear quests to be easier to complete!", "Size": 16}
-        ]
-      },
-      {
-        "SectionTitle": "🛠️ Bug Fixes",
-        "Items": [
-          {"Type": "Text", "Text": "• Fixed an issue where the Chat filter feature was breaking.", "Size": 16},
-          {"Type": "Text", "Text": "• Patched a collision bug with the Contest Bear NPCs.", "Size": 16},
-          {"Type": "Text", "Text": "• Special thanks to @Omarplanet1 for optimizing the game!", "Size": 16}
-        ]
-      },
-      {
-        "SectionTitle": "🔮 What's Next?",
-        "Items": [
-          {"Type": "Text", "Text": "• A Familiar Face emerges!", "Size": 16},
-          {"Type": "Image", "Title": "It's you??", "ImageID": "rbxassetid://1234567890", "Description": "\"BBM is here...\"", "BgColor": [40, 40, 40]},
-          {"Type": "Image", "Title": "All 12 Event eggs", "ImageID": "rbxassetid://122123173691440", "Description": "\"The Full Egg Family Tree is coming soon!\""}
+          {"Type": "Text", "Text": "• The Bunny Merchant has received a massive balance pass! Prices, stock rates, free rewards, and mastery tiers have all been adjusted.", "Size": 16},
+    
+          {"Type": "Text", "Text": "• <b>😎 Free Item Shop Adjustments</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <b>Free Seeds Minimum:</b> <font color=\"#FF5555\">1</font> ➔ <font color=\"#55FF55\">2</font> (Guaranteed double minimum!)", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Free Fruits Maximum:</b> <font color=\"#FF5555\">5 Max</font> ➔ <font color=\"#FF5555\">3 Max</font> (Slightly nerfed)", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Marshmallow Bee Drop Rate:</b> <font color=\"#FF5555\">1%</font> ➔ <font color=\"#55FF55\">2.5%</font> Chance", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Free Eggs Value:</b> <font color=\"#55FF55\">Buffed by x2!</font>", "Size": 16},
+
+          {"Type": "Text", "Text": "• <b>💰 Paid Item Shop Adjustments</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <b>Fruit Item Prices:</b> <font color=\"#55FF55\">Cut by 20%</font> cheaper!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Ingredients (Extracts/Oils/Enzymes):</b> <font color=\"#55FF55\">Cut by 35%</font> cheaper!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Star Egg Fragment #1:</b> Price <font color=\"#55FF55\">cut by 33.3%</font> | Spawn Rate: <font color=\"#FF5555\">0.5%</font> ➔ <font color=\"#55FF55\">2%</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Marshmallow Bee:</b> Price <font color=\"#55FF55\">cut by 50%</font> | Spawn Rate: <font color=\"#FF5555\">2.1%</font> ➔ <font color=\"#55FF55\">7.3%</font> | Stock: Guaranteed <font color=\"#55FF55\">2-3 stock</font> per spawn!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Merchant EXP:</b> All non-fruit purchases now grant <font color=\"#55FF55\">x5 Base EXP</font>!", "Size": 16},
+
+          {"Type": "Text", "Text": "• <b>📈 Progression Tier Changes (Before vs. After)</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <b>Discount Perk Shift:</b> Discount slots now unlock early at <font color=\"#55FF55\">Level 1 (2%)</font> instead of waiting until Level 8!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Lv. 0 Base EXP Gain:</b> <font color=\"#FF5555\">+25</font> ➔ <font color=\"#55FF55\">+30</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 2 Base EXP Gain:</b> <font color=\"#FF5555\">+35</font> ➔ <font color=\"#55FF55\">+45</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 4 Base EXP Gain:</b> <font color=\"#FF5555\">+50</font> ➔ <font color=\"#55FF55\">+65</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 5 Base EXP Gain:</b> <font color=\"#FF5555\">+60</font> ➔ <font color=\"#55FF55\">+85</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 6 Base EXP Gain:</b> <font color=\"#FF5555\">+85</font> ➔ <font color=\"#55FF55\">+105</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 7 Base EXP Gain:</b> <font color=\"#FF5555\">+100</font> ➔ <font color=\"#55FF55\">+125</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 8 Base EXP Gain:</b> <font color=\"#FF5555\">+120</font> ➔ <font color=\"#55FF55\">+135</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 11 Required EXP Nerf:</b> <font color=\"#FF5555\">54,842</font> ➔ <font color=\"#55FF55\">52,746</font> EXP", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 12 Required EXP Nerf:</b> <font color=\"#FF5555\">73,541</font> ➔ <font color=\"#55FF55\">70,541</font> EXP", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 13 Required EXP Nerf:</b> <font color=\"#FF5555\">89,653</font> ➔ <font color=\"#55FF55\">84,653</font> EXP | Base EXP Gain: <font color=\"#FF5555\">+300</font> ➔ <font color=\"#55FF55\">+350</font>", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 14 Required EXP Nerf:</b> <font color=\"#FF5555\">110,444</font> ➔ <font color=\"#55FF55\">100,444</font> EXP | Base EXP Gain: <font color=\"#FF5555\">+450</font> ➔ <font color=\"#55FF55\">+480</font>", "Size": 15}
         ]
       }
     ],
-    "FooterText": "🐝 Easter Finale coming soon!"
+    "FooterText": "🐝 Enjoy Easter Finale!"
   },
   {
     "Name": "🎒 Inventory Update!",
