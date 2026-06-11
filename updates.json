@@ -25,7 +25,8 @@
         "Items": [
           {"Type": "Text", "Text": "• <b>Cooldown:</b> <font color=\"#FF5555\">30:00</font> >> <font color=\"#55FF55\">15:00</font> (Faster Play!)", "Size": 16},
           {"Type": "Text", "Text": "• <b>Boost Duration:</b> <font color=\"#FF5555\">4:30</font> >> <font color=\"#55FF55\">5:00</font>", "Size": 16},
-          {"Type": "Text", "Text": "• <b>Buff Adjustments:</b> Values rebalanced to <font color=\"#00AAFF\">x1.5, x2, x2.5, x3, x3.5, x5, x10</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Old Buffs:</b> <font color=\"#FF5555\">x3, x5, x10, x25, x50, x100</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>New Buffs:</b> <font color=\"#55FF55\">x1.5, x2, x2.5, x3, x3.5, x5, x10</font>", "Size": 16},
           {"Type": "Text", "Text": "• <b>Removed:</b> <font color=\"#FF5555\">x1000 Egg Boost</font> (Too OP!)", "Size": 16}
         ]
       },
