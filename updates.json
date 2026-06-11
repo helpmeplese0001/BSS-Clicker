@@ -54,20 +54,23 @@
       {
         "SectionTitle": "🥚 New Event Eggs & Cosmic Gear",
         "Items": [
-          {"Type": "Header", "Text": "🌳 TREE EGG PUZZLE GUIDE", "Color": [255, 255, 255], "BgColor": [45, 138, 71]},
-          {"Type": "Image", "Title": "Tree Egg Quest", "ImageID": "rbxassetid://129527736120287", "Description": "\"A mysterious sprout hidden deep within the puzzle layers.\"", "BgColor": [45, 138, 71]},
-          {"Type": "Text", "Text": "• <b>Step 1:</b> Talk to Contest Bear to initiate the secret hunt map tracking.", "Size": 16},
-          {"Type": "Text", "Text": "• <b>Step 2:</b> Locate and meticulously count all <b>65 trees</b> scattered across the world.", "Size": 16},
-          {"Type": "Text", "Text": "• <b>Step 3:</b> Input the hidden code <b>0975</b> (65 trees x 15) into the vault.", "Size": 16},
-          {"Type": "Text", "Text": "• <b>Step 4:</b> Equip your newly unlocked <b>Tree Nametag</b> cosmetic to decode the final riddle.", "Size": 16},
-          {"Type": "Text", "Text": "• <b>Step 5:</b> Breach the open sewer gates in event world to venture below and claim your Tree Egg!", "Size": 16},
+          {"Type": "Header", "Text": "🌳 HOW TO GET THE TREE EGG", "Color": [255, 255, 255], "BgColor": [45, 138, 71]},
+          {"Type": "Image", "Title": "Tree Egg Quest", "ImageID": "rbxassetid://129527736120287", "Description": "\"A mysterious sprout hidden behind a puzzle.\"", "BgColor": [45, 138, 71]},
+          {"Type": "Text", "Text": "• <b>Step 1:</b> Talk to Contest Bear to start the secret quest.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 2:</b> Find and count all <b>65 trees</b> around the map.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 3:</b> Type the secret code <b>0975</b> (65 trees x 15) into the door. (Same Panel as Cloud Egg)", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 4:</b> Equip your new <b>Tree Nametag</b> to solve the puzzle.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 5:</b> Find TV in the Event World and follow it's instructions!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 6:</b> Head down into the newly opened sewer in the Event World and grab your egg!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Notes:</b> The Electric Panels are in World 3 and in the Pumpkin Egg Room!", "Size": 16},
 
-          {"Type": "Header", "Text": "🌌 GALAXY EGG SPACE ODYSSEY", "Color": [255, 255, 255], "BgColor": [28, 40, 99]},
-          {"Type": "Image", "Title": "Space Egg (Galaxy Egg)", "ImageID": "rbxassetid://78908608695049", "Description": "\"An extraterrestrial artifact floating deep inside outer space.\"", "BgColor": [28, 40, 99]},
-          {"Type": "Text", "Text": "• <b>Step 1:</b> Finish all 15 Contest Bear questlines to unlock shop access.", "Size": 16},
-          {"Type": "Text", "Text": "• <b>Step 2:</b> Purchase the event-exclusive <b>Apollo Command Helmet</b> from the gear terminal.", "Size": 16},
-          {"Type": "Text", "Text": "• <b>Step 3:</b> Launch past the atmosphere to blast off directly into orbit!", "Size": 16},
-          {"Type": "Text", "Text": "• <b>Step 4:</b> Navigate the deep deep-space galaxy coordinates to track down this celestial egg.", "Size": 16},
+
+          {"Type": "Header", "Text": "🌌 HOW TO GET THE GALAXY EGG", "Color": [255, 255, 255], "BgColor": [28, 40, 99]},
+          {"Type": "Image", "Title": "Space Egg (Galaxy Egg)", "ImageID": "rbxassetid://78908608695049", "Description": "\"Lost somewhere out in space.\"", "BgColor": [28, 40, 99]},
+          {"Type": "Text", "Text": "• <b>Step 1:</b> Complete all 15 Contest Bear quests to unlock the shop.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 2:</b> Buy the new <b>Apollo Command Helmet</b>.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 3:</b> Blast off into space!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 4:</b> Search around space to find the hidden Galaxy Egg.", "Size": 16},
 
           {"Type": "Header", "Text": "🚀 EVENT EXCLUSIVE GEAR", "Color": [255, 255, 255], "BgColor": [53, 94, 121]},
           {"Type": "Text", "Text": "• <b>Apollo Command Helmet:</b> <i>'A relic from the Sea of Tranquility. One small click for a farmer, one giant leap for your collection!'</i>", "Size": 16},            {"Type": "Text", "Text": "• <b>Perks:</b> <font color=\"#55FF55\">4x Eggs</font> per click & <font color=\"#55FF55\">5% Seed Discount</font>!", "Size": 16},
@@ -146,31 +149,31 @@
         ]
       },
       {
-      "SectionTitle": "⚙️ Quest & Item Economy Changes",
-      "Items": [
-        {"Type": "Header", "Text": "🍯 MARSHMALLOW BEE", "Color": [255, 255, 255], "BgColor": [222, 135, 63]},
-        {"Type": "Text", "Text": "• Marshmallow Bees can now be sourced through a variety of alternative endgame activities:", "Size": 16},
-        {"Type": "Text", "Text": "• <b>Spring Eggs:</b> Added a new <font color=\"#55FF55\">2.5% drop rate</font> pool.", "Size": 16},
-        {"Type": "Text", "Text": "• <b>Legendary Eggs:</b> Added a <font color=\"#55FF55\">5% drop rate</font> directly on collection inside the Event World.", "Size": 16},
-        {"Type": "Text", "Text": "• <b>Contest Bear Progression:</b> Guaranteed clear reward across new Quests 11 through 15.", "Size": 16},
-        {"Type": "Text", "Text": "• <b>Blackhole Obby Drops:</b> Now drops upon a successful match win! Rates: <font color=\"#55FF55\">Easy Mode (25% chance)</font> | <font color=\"#55FF55\">Hard Mode (75% chance)</font>.", "Size": 16},
+        "SectionTitle": "⚙️ Quests & Other Changes",
+        "Items": [
+          {"Type": "Header", "Text": "🍯 MARSHMALLOW BEE CHANGES", "Color": [255, 255, 255], "BgColor": [222, 135, 63]},
+          {"Type": "Text", "Text": "• Marshmallow Bees are now much easier to get! You can find them from:", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Spring Eggs:</b> <font color=\"#55FF55\">2.5% chance</font> to drop.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Legendary Eggs:</b> <font color=\"#55FF55\">5% chance</font> to drop when collected in the Event World.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Contest Bear:</b> Guaranteed reward from Quests 11-15.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Blackhole Obby:</b> Drops when you win! <font color=\"#55FF55\">Easy Mode (25% chance)</font> | <font color=\"#55FF55\">Hard Mode (75% chance)</font>.", "Size": 16},
 
-        {"Type": "Header", "Text": "🐻 CONTEST BEAR QUESTLINE CHANGES", "Color": [255, 255, 255], "BgColor": [139, 69, 19]},
-        {"Type": "Text", "Text": "• <b>Early Game Quests:</b> Quest requirements for <b>Questlines 1 to 10</b> have been scaled down and nerfed to help players scaling gates smoothly and catch up with the rest of the players!", "Size": 16}
-      ]
-    },
-    {
-      "SectionTitle": "🚀 Blackhole Obby Balance Changes",
-      "Items": [
-        {"Type": "Header", "Text": "😉 EASY MODE COMFORT PASS", "Color": [255, 255, 255], "BgColor": [75, 180, 75]},
-        {"Type": "Text", "Text": "• Nerfed and re-spaced several awkward jumps throughout the stage to stabilize general platforming.", "Size": 16},
-        {"Type": "Text", "Text": "• Noticeably reduced the rotation velocity of all dangerous Spinning Lasers.", "Size": 16},
-
-        {"Type": "Header", "Text": "😈 HARD MODE SPEEDRUN PASS", "Color": [255, 255, 255], "BgColor": [200, 30, 30]},
-        {"Type": "Text", "Text": "• Removed massive clusters of laser obstacles to clear path readability and performance.", "Size": 16},
-        {"Type": "Text", "Text": "• Added a few advanced, high-risk shortcuts tailored for elite runners looking to shave down completion times!", "Size": 16}
-      ]
-    }
+          {"Type": "Header", "Text": "🐻 CONTEST BEAR NERFS", "Color": [255, 255, 255], "BgColor": [139, 69, 19]},
+          {"Type": "Text", "Text": "• Quests 1-10 are now much easier to complete so newer players can catch up faster!", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "🚀 Blackhole Obby Balance Changes",
+        "Items": [
+          {"Type": "Header", "Text": "😉 EASY MODE CHANGES", "Color": [255, 255, 255], "BgColor": [75, 180, 75]},
+          {"Type": "Text", "Text": "• Fixed and nerfed some annoying jumps to make the obby easier overall.", "Size": 16},
+          {"Type": "Text", "Text": "• Slowed down the spinning lasers so they are easier to dodge.", "Size": 16},
+          
+          {"Type": "Header", "Text": "😈 HARD MODE CHANGES", "Color": [255, 255, 255], "BgColor": [200, 30, 30]},
+          {"Type": "Text", "Text": "• Removed a lot of lasers to make the path less cluttered.", "Size": 16},
+          {"Type": "Text", "Text": "• Added a few new shortcuts for speedrunners!", "Size": 16}
+        ]
+      }
     ],
     "FooterText": "🐝 Enjoy Easter Finale!"
   },
