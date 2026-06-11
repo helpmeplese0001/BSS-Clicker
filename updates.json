@@ -60,6 +60,28 @@
         ]
       },
       {
+        "SectionTitle": "🥚 Event Egg Spawn Rate Pass & Haste Overhaul",
+        "Items": [
+          {"Type": "Text", "Text": "• We've completely rebalanced the event egg spawn configurations to make hunting smoother, fairer, and reward active streak tracking!", "Size": 16},
+    
+          {"Type": "Text", "Text": "• <b>📈 Dynamic Egg Spawn Adjustments</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <b>Common Egg:</b> <font color=\"#FF5555\">45%</font> >> <font color=\"#55FF55\">51%</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Uncommon Egg:</b> <font color=\"#FF5555\">39%</font> >> <font color=\"#FF5555\">30.5%</font> (Reduced clutter)", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Rare Egg:</b> <font color=\"#FF5555\">14%</font> >> <font color=\"#55FF55\">16%</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Legendary Egg:</b> <font color=\"#FF5555\">2%</font> >> <font color=\"#55FF55\">2.5%</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Tribe Egg (Secret):</b> Base roll chance heavily cut down from <font color=\"#FF5555\">1 in 2500</font> >> <font color=\"#55FF55\">1 in 1800</font> per spawn cycle!", "Size": 16},
+
+          {"Type": "Text", "Text": "• <b>⚡ New Event Mechanic: Haste Stacking</b>", "Size": 18},
+          {"Type": "Text", "Text": "• Collecting rare event eggs now grants stacks of <b>Haste</b>, speeding up spawn intervals and scaling up your server luck dynamically!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Legendary Eggs:</b> Grant <font color=\"#55FF55\">x1 Haste Stack</font> on collection.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Tribe Eggs:</b> Grant a massive <font color=\"#55FF55\">x5 Haste Stacks</font> instantly on collection.", "Size": 16},
+      
+          {"Type": "Text", "Text": "• <b>💡 How Haste Works (For This Event Only)</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <b>Spawn Acceleration:</b> Each stack cuts down your egg cooldown timer from the base rate down toward the boosted limit (<font color=\"#55FF55\">0.4s >> 0.2s</font>). Maximum speed is reached at 10 Haste stacks!", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Luck Multiplication:</b> Active haste progressively multiplies your underlying tier generation weights. It increases the chance of Uncommon, Rare, and Legendary eggs appearing, while safely scaling the Tribe Egg rate up to <font color=\"#55FF55\">200% spawn chance!</font>!", "Size": 15}
+        ]
+      },
+      {
         "SectionTitle": "🐰 Bunny Merchant Balance Changes",
         "Items": [
           {"Type": "Text", "Text": "• The Bunny Merchant has received a massive balance pass! Prices, stock rates, free rewards, and mastery tiers have all been adjusted.", "Size": 16},
