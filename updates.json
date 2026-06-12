@@ -21,6 +21,16 @@
         ]
       },
       {
+        "SectionTitle": "⚙️ Revamped Playerlist & Fixes",
+        "Items": [
+          {"Type": "Text","Text": "• <b>New Interactive Playerlist:</b> Press <font color=\"#55FF55\">[TAB]</font> or click the top button to smoothly slide open the brand-new leaderboard!","Size": 16},
+          {"Type": "Text","Text": "• <b>Dynamic Player Plates:</b> Spot your friends instantly in <font color=\"#FFAA00\">Gold</font>, Premium members in <font color=\"#AA55FF\">Purple</font>, and Developers in a custom animated UI!","Size": 16},
+          {"Type": "Text","Text": "• <b>Advanced Social Dropdown:</b> Click any player to open the new extras menu. Includes satisfying hover animations and quick access to Profiles and Avatars.","Size": 16},
+          {"Type": "Text","Text": "• <b>Live Stat Tracking:</b> Keep an eye on the competition with real-time updates for Eggs, Clicks, and formatted Playtime metrics.","Size": 16},
+          {"Type": "Image","Title": "Loading GUI","ImageID": "rbxassetid://136488697480582","Description": "\"They look cool!\"","BgColor": [99, 203, 133]},{"Type": "Image","Title": "New Leaderstats GUI","ImageID": "rbxassetid://110159779576054","Description": "\"Wow! It looks clean!\"","BgColor": [85, 255, 170]}
+        ]
+      },
+      {
         "SectionTitle": "⚖️ Plinko Machine Balance Changes",
         "Items": [
           {"Type": "Text", "Text": "• <b>Cooldown:</b> <font color=\"#FF5555\">30:00</font> >> <font color=\"#55FF55\">15:00</font> (Faster Play!)", "Size": 16},
@@ -31,7 +41,7 @@
         ]
       },
       {
-        "SectionTitle": "🔮 What's Next & Changes",
+        "SectionTitle": "🔮 Small Changes & What's Next?",
         "Items": [
           {"Type": "Text", "Text": "• <b>Global Boost:</b> <font color=\"#FFD700\">x2 Bunny Shop EXP</font> is now LIVE!", "Size": 16},
           {"Type": "Text", "Text": "• The <b>Easter Event</b> is entering its final stage—get your rewards before it ends!", "Size": 16},
