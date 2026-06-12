@@ -1,5 +1,58 @@
 [
   {
+    "Name": "10K Visits Party!",
+    "Version": "Pre Alpha V.0.4.3",
+    "SortOrder": 10,
+    "Title": "10K Visits Celebration!",
+    "Color": [0, 170, 255],
+    "BannerImage": "rbxassetid://134338968694109",
+    "HeaderText": "✨ NEW UPDATE (06/13/2026) ✨",
+    "Sections": [
+      {
+        "SectionTitle": "✨ 10K Visits Mini Event!",
+        "Items": [
+          {"Type": "Text", "Text": "• A special celebration event has arrived to thank everyone!", "Size": 16},
+          {"Type": "Image", "Title": "Claim Your Reward", "ImageID": "rbxassetid://134338968694109", "Description": "\"Talk to the NPC near the leaderboards. Event lasts for 2 weeks!\"", "BgColor": [222, 135, 63]},
+          {"Type": "Text", "Text": "<b>🎁 10K CELEBRATION REWARDS:</b>", "Size": 16},
+          {"Type": "Text", "Text": "• Unlocks Exclusive <font color=\"#FFD700\"><b>[10k Visits] Nametag</b></font> (Limited-Time!)", "Size": 14},
+          {"Type": "Text", "Text": "• <font color=\"#FF55FF\"><b>+10 Marshmallow Bees</b></font>", "Size": 14},
+          {"Type": "Text", "Text": "• <font color=\"#55FFFF\"><b>+2 Star Egg Fragment #1</b></font>", "Size": 14},
+          {"Type": "Text", "Text": "• <font color=\"#55FF55\"><b>12-Hour Free Boost</b></font> (x2 Egg Multiplier!)", "Size": 14}
+        ]
+      },
+      {
+        "SectionTitle": "⚙️ Revamped Playerlist & Fixes",
+        "Items": [
+          {"Type": "Text","Text": "• <b>New Interactive Playerlist:</b> Press <font color=\"#55FF55\">[TAB]</font> or click the top button to smoothly slide open the brand-new leaderboard!","Size": 16},
+          {"Type": "Text","Text": "• <b>Dynamic Player Plates:</b> Spot your friends instantly in <font color=\"#FFAA00\">Gold</font>, Premium members in <font color=\"#AA55FF\">Purple</font>, and Developers in a custom animated UI!","Size": 16},
+          {"Type": "Text","Text": "• <b>Advanced Social Dropdown:</b> Click any player to open the new extras menu. Includes satisfying hover animations and quick access to Profiles and Avatars.","Size": 16},
+          {"Type": "Text","Text": "• <b>Live Stat Tracking:</b> Keep an eye on the competition with real-time updates for Eggs, Clicks, and formatted Playtime metrics.","Size": 16},
+          {"Type": "Image","Title": "Loading GUI","ImageID": "rbxassetid://136488697480582","Description": "\"They look cool!\"","BgColor": [99, 203, 133]},{"Type": "Image","Title": "New Leaderstats GUI","ImageID": "rbxassetid://110159779576054","Description": "\"Wow! It looks clean!\"","BgColor": [85, 255, 170]}
+        ]
+      },
+      {
+        "SectionTitle": "⚖️ Plinko Machine Balance Changes",
+        "Items": [
+          {"Type": "Text", "Text": "• <b>Cooldown:</b> <font color=\"#FF5555\">30:00</font> >> <font color=\"#55FF55\">15:00</font> (Faster Play!)", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Boost Duration:</b> <font color=\"#FF5555\">4:30</font> >> <font color=\"#55FF55\">5:00</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Old Buffs:</b> <font color=\"#55FF55\">x3, x5, x10, x25, x50, x100</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>New Buffs:</b> <font color=\"#FF5555\">x1.5, x2, x2.5, x3, x3.5, x5, x10</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Removed:</b> <font color=\"#FF5555\">x1000 Egg Boost</font> (Too OP!)", "Size": 16}
+        ]
+      },
+      {
+        "SectionTitle": "🔮 Small Changes & What's Next?",
+        "Items": [
+          {"Type": "Text", "Text": "• <b>Global Boost:</b> <font color=\"#FFD700\">x2 Bunny Shop EXP</font> is now LIVE!", "Size": 16},
+          {"Type": "Text", "Text": "• The <b>Easter Event</b> is entering its final stage—get your rewards before it ends!", "Size": 16},
+          {"Type": "Image", "Title": "Easter Final Farewell", "ImageID": "rbxassetid://91922373956607", "Description": "\"The festivities are leaving soon!\"", "BgColor": [170, 85, 255]},
+          {"Type": "Image", "Title": "World 3 Part 2: Coming Soon..", "ImageID": "rbxassetid://104482408831809", "Description": "\"The Spirit Era is coming to an end. Get ready for what's next!\"", "BgColor": [85, 255, 170]}
+        ]
+      }
+    ],
+    "FooterText": "🐝 Thank you all for 10K Visits!"
+  },
+  {
     "Name": "Easter Finale",
     "Version": "Pre Alpha V.0.4.2",
     "SortOrder": 9,
@@ -9,61 +62,133 @@
     "HeaderText": "✨ NEW UPDATE (05/30/2026) ✨",
     "Sections": [
       {
-        "SectionTitle": "🎒 Inventory GUI",
+        "SectionTitle": "🥚 New Event Eggs & Cosmic Gear",
         "Items": [
-          {"Type": "Text", "Text": "• The Long Awaited Inventory GUI is here!", "Size": 16},
-          {"Type": "Text", "Text": "• Unlocks the nametag through Quests and Achievements! (More Will Be Available in Near Future!)", "Size": 16},
-          {"Type": "Image", "Title": "Yes", "ImageID": "rbxassetid://1234567890", "Description": "\"Please note that currently nametag is available but more will be coming to in future! such as codes, player stats, consumables\"", "BgColor": [40, 40, 40]},
-          {"Type": "Text", "Text": "• Everyone who joined before this update drop will receive the exclusive Alpha nametag!", "Size": 16},
-          {"Type": "Text", "Text": "• Easily equip, unequip, and preview how items look on your character.", "Size": 16}
+          {"Type": "Header", "Text": "🌳 HOW TO GET THE TREE EGG", "Color": [255, 255, 255], "BgColor": [45, 138, 71]},
+          {"Type": "Image", "Title": "Tree Egg Quest", "ImageID": "rbxassetid://129527736120287", "Description": "\"A mysterious sprout hidden behind a puzzle.\"", "BgColor": [45, 138, 71]},
+          {"Type": "Text", "Text": "• <b>Step 1:</b> Talk to Contest Bear to start the secret quest.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 2:</b> Find and count all <b>65 trees</b> around the map.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 3:</b> Type the secret code <b>0975</b> (65 trees x 15) into the door. (Same Panel as Cloud Egg)", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 4:</b> Equip your new <b>Tree Nametag</b> to solve the puzzle.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 5:</b> Find TV in the Event World and follow it's instructions!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 6:</b> Head down into the newly opened sewer in the Event World and grab your egg!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Notes:</b> The Electric Panels are in World 3 and in the Pumpkin Egg Room!", "Size": 16},
+
+
+          {"Type": "Header", "Text": "🌌 HOW TO GET THE GALAXY EGG", "Color": [255, 255, 255], "BgColor": [28, 40, 99]},
+          {"Type": "Image", "Title": "Space Egg (Galaxy Egg)", "ImageID": "rbxassetid://78908608695049", "Description": "\"Lost somewhere out in space.\"", "BgColor": [28, 40, 99]},
+          {"Type": "Text", "Text": "• <b>Step 1:</b> Complete all 15 Contest Bear quests to unlock the shop.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 2:</b> Buy the new <b>Apollo Command Helmet</b>.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 3:</b> Blast off into space!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Step 4:</b> Search around space to find the hidden Galaxy Egg.", "Size": 16},
+
+          {"Type": "Header", "Text": "🚀 EVENT EXCLUSIVE GEAR", "Color": [255, 255, 255], "BgColor": [53, 94, 121]},
+          {"Type": "Text", "Text": "• <b>Apollo Command Helmet:</b> <i>'A relic from the Sea of Tranquility. One small click for a farmer, one giant leap for your collection!'</i>", "Size": 16},            {"Type": "Text", "Text": "• <b>Perks:</b> <font color=\"#55FF55\">4x Eggs</font> per click & <font color=\"#55FF55\">5% Seed Discount</font>!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Price:</b> 280SX Eggs", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Materials Requirements:</b> 619x Strawberry | 619x Blueberry | 456x Sunflower | 31x Marshmallow Bee | 7x Star Egg Fragment #1", "Size": 14},
+
+          {"Type": "Header", "Text": "🐝 THE FINAL SHOWDOWN: BBM", "Color": [255, 255, 255], "BgColor": [180, 40, 40]},
+          {"Type": "Image", "Title": "Final Quest.", "ImageID": "rbxassetid://71961913510293", "Description": "\"Bumble Bee Man has arrived as the ultimate challenge. Track down and collect all 11 event eggs to qualify for his grueling final challenge loop!\"", "BgColor": [245, 205, 48]},
+          {"Type": "Text", "Text": "• <b>🏆 Grand Finale Completion Rewards:</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <font color=\"#55FF55\"><b>+1 Free Egg Level</b></font> permanently added to your stats!", "Size": 16},
+          {"Type": "Text", "Text": "• <font color=\"#55FF55\"><b>Massive x5 Egg Boost</b></font> completely active for 1 Whole Day (24 Hours)!", "Size": 16},
+          {"Type": "Text", "Text": "• 🔮 Completing this finale locks in early priority access to insanely overpowered upcoming rewards for the <b>Skill Tree Update</b> dropping in the near future!", "Size": 15}
+         ]
+      },
+      {
+        "SectionTitle": "⚖️ Plinko Machine Balance Changes",
+        "Items": [
+          {"Type": "Text", "Text": "• <b>Old Buffs:</b> <font color=\"#FF5555\">x1.5, x2, x2.5, x3, x4, x5</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>New Buffs:</b> <font color=\"#55FF55\">x3, x5, x10, x25, x50, x100</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Secret Buff:</b> <font color=\"#55FF55\">x1000 Egg Boost</font> (1 in 100,000)", "Size": 16}
         ]
       },
       {
-        "SectionTitle": "✒️ Blackhole Obby & Egg!",
+        "SectionTitle": "🥚 Event Egg Spawn Rate & Haste Mechanic",
         "Items": [
-          {"Type": "Text", "Text": "• Talk to the Scarecrow NPC to begin the new challenge!", "Size": 16},
-          {"Type": "Image", "Title": "Choose your own path!", "ImageID": "rbxassetid://1234567890", "Description": "\"Whatever you choose determines your destiny...\"", "BgColor": [40, 40, 40]},
-          {"Type": "Text", "Text": "• Navigate through rotating platforms, fading blocks, and zero-gravity jumps.", "Size": 16},
-          {"Type": "Image", "Title": "Get to the top!", "ImageID": "rbxassetid://1234567890", "Description": "\"Why is the tower so high...\"", "BgColor": [40, 40, 40]},
-          {"Type": "Text", "Text": "• Defeat harder modes for better rewards and a massive EXP multiplier!", "Size": 16}
+          {"Type": "Text", "Text": "• We've completely rebalanced the event egg spawn configurations to make hunting smoother, fairer, and reward active streak tracking!", "Size": 16},
+    
+          {"Type": "Text", "Text": "• <b>📈 Dynamic Egg Spawn Adjustments</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <b>Common Egg:</b> <font color=\"#FF5555\">45%</font> >> <font color=\"#55FF55\">51%</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Uncommon Egg:</b> <font color=\"#FF5555\">39%</font> >> <font color=\"#FF5555\">30.5%</font> (Reduced clutter)", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Rare Egg:</b> <font color=\"#FF5555\">14%</font> >> <font color=\"#55FF55\">16%</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Legendary Egg:</b> <font color=\"#FF5555\">2%</font> >> <font color=\"#55FF55\">2.5%</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Tribe Egg (Secret):</b> Base roll chance heavily cut down from <font color=\"#FF5555\">1 in 2500</font> >> <font color=\"#55FF55\">1 in 1800</font> per spawn cycle!", "Size": 16},
+
+          {"Type": "Text", "Text": "• <b>⚡ New Event Mechanic: Haste Stacking</b>", "Size": 18},
+          {"Type": "Text", "Text": "• Collecting rare event eggs now grants stacks of <b>Haste</b>, speeding up spawn intervals and scaling up your server luck dynamically!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Legendary Eggs:</b> Grant <font color=\"#55FF55\">x1 Haste Stack</font> on collection.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Tribe Eggs:</b> Grant a massive <font color=\"#55FF55\">x5 Haste Stacks</font> instantly on collection.", "Size": 16},
+      
+          {"Type": "Text", "Text": "• <b>💡 How Haste Works (For This Event Only)</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <b>Spawn Acceleration:</b> Each stack cuts down your egg cooldown timer from the base rate down toward the boosted limit (<font color=\"#55FF55\">0.4s >> 0.2s</font>). Maximum speed is reached at 10 Haste stacks!", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Luck Multiplication:</b> Active haste progressively multiplies your underlying tier generation weights. It increases the chance of Uncommon, Rare, and Legendary eggs appearing, while safely scaling the Tribe Egg rate up to <font color=\"#55FF55\">200% spawn chance!</font>!", "Size": 15}
         ]
       },
       {
-        "SectionTitle": "✒️ Lobby Overhaul!",
+        "SectionTitle": "🐰 Bunny Merchant Balance Changes",
         "Items": [
-          {"Type": "Text", "Text": "• New Lobby Again? Yes! We've fully optimized the spawn area for better performance.", "Size": 16},
-          {"Type": "Text", "Text": "• Huge thanks to Omar for helping re-design the central plaza structure!", "Size": 16},
-          {"Type": "Image", "Title": "A Fresh Look", "ImageID": "rbxassetid://1234567890", "Description": "\"Enjoy the new scenery and hidden secrets scattered around.\"", "BgColor": [40, 40, 40]}
+          {"Type": "Text", "Text": "• The Bunny Merchant has received a massive balance pass! Prices, stock rates, free rewards, and mastery tiers have all been adjusted.", "Size": 16},
+    
+          {"Type": "Text", "Text": "• <b>😎 Free Item Shop Adjustments</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <b>Free Seeds Minimum:</b> <font color=\"#FF5555\">1</font> >> <font color=\"#55FF55\">2</font> (Guaranteed double seeds!)", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Free Fruits Maximum:</b> <font color=\"#FF5555\">5 Max</font> >> <font color=\"#FF5555\">3 Max</font> (Slightly nerfed)", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Marshmallow Bee Drop Rate:</b> <font color=\"#FF5555\">1%</font> >> <font color=\"#55FF55\">2.5%</font> Chance", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Free Eggs Value:</b> <font color=\"#55FF55\">Buffed by x2!</font>", "Size": 16},
+
+          {"Type": "Text", "Text": "• <b>💰 Paid Item Shop Adjustments</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <b>Fruit Item Prices:</b> <font color=\"#55FF55\">Cut by 20%</font> cheaper!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Ingredients (Extracts/Oils/Enzymes):</b> <font color=\"#55FF55\">Cut by 35%</font> cheaper!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Star Egg Fragment #1:</b> Price <font color=\"#55FF55\">cut by 33.3%</font> | Spawn Rate: <font color=\"#FF5555\">0.5%</font> >> <font color=\"#55FF55\">2%</font>", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Marshmallow Bee:</b> Price <font color=\"#55FF55\">cut by 50%</font> | Spawn Rate: <font color=\"#FF5555\">2.1%</font> >> <font color=\"#55FF55\">7.3%</font> | Stock: Guaranteed <font color=\"#55FF55\">2-3 stock</font> per spawn!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Merchant EXP:</b> All non-fruit purchases now grant <font color=\"#55FF55\">x5 Base EXP</font>!", "Size": 16},
+
+          {"Type": "Text", "Text": "• <b>📈 Progression Tier Changes (Before vs. After)</b>", "Size": 18},
+          {"Type": "Text", "Text": "• <b>Discount Perk Shift:</b> Discount slots now unlock early at <font color=\"#55FF55\">Level 1 (2%)</font> instead of waiting until Level 8!", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Lv. 0 Base EXP Gain:</b> <font color=\"#FF5555\">+25</font> >> <font color=\"#55FF55\">+30</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 2 Base EXP Gain:</b> <font color=\"#FF5555\">+35</font> >> <font color=\"#55FF55\">+45</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 4 Base EXP Gain:</b> <font color=\"#FF5555\">+50</font> >> <font color=\"#55FF55\">+65</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 5 Base EXP Gain:</b> <font color=\"#FF5555\">+60</font> >> <font color=\"#55FF55\">+85</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 6 Base EXP Gain:</b> <font color=\"#FF5555\">+85</font> >> <font color=\"#55FF55\">+105</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 7 Base EXP Gain:</b> <font color=\"#FF5555\">+100</font> >> <font color=\"#55FF55\">+125</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 8 Base EXP Gain:</b> <font color=\"#FF5555\">+120</font> >> <font color=\"#55FF55\">+135</font> EXP/Item", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 11 Required EXP Nerf:</b> <font color=\"#FF5555\">54,842</font> >> <font color=\"#55FF55\">52,746</font> EXP", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 12 Required EXP Nerf:</b> <font color=\"#FF5555\">73,541</font> >> <font color=\"#55FF55\">70,541</font> EXP", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 13 Required EXP Nerf:</b> <font color=\"#FF5555\">89,653</font> >> <font color=\"#55FF55\">84,653</font> EXP | Base EXP Gain: <font color=\"#FF5555\">+300</font> ➔ <font color=\"#55FF55\">+350</font>", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Lv. 14 Required EXP Nerf:</b> <font color=\"#FF5555\">110,444</font> >> <font color=\"#55FF55\">100,444</font> EXP | Base EXP Gain: <font color=\"#FF5555\">+450</font> ➔ <font color=\"#55FF55\">+480</font>", "Size": 15}
         ]
       },
       {
-        "SectionTitle": "⚖️ Balance Changes",
+        "SectionTitle": "⚙️ Quests & Other Changes",
         "Items": [
-          {"Type": "Text", "Text": "• Rebalanced early-game seed costs so new players can progress smoother.", "Size": 16},
-          {"Type": "Text", "Text": "• Slightly nerf Black Bear quests to be easier to complete!", "Size": 16}
+          {"Type": "Header", "Text": "🍯 MARSHMALLOW BEE CHANGES", "Color": [255, 255, 255], "BgColor": [222, 135, 63]},
+          {"Type": "Text", "Text": "• Marshmallow Bees are now much easier to get! You can find them from:", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Spring Eggs:</b> <font color=\"#55FF55\">2.5% chance</font> to drop.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Legendary Eggs:</b> <font color=\"#55FF55\">5% chance</font> to drop when collected in the Event World.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Contest Bear:</b> Guaranteed reward from Quests 11-15.", "Size": 16},
+          {"Type": "Text", "Text": "• <b>Blackhole Obby:</b> Drops when you win! <font color=\"#55FF55\">Easy Mode (25% chance)</font> | <font color=\"#55FF55\">Hard Mode (75% chance)</font>.", "Size": 16},
+
+          {"Type": "Header", "Text": "🐻 CONTEST BEAR NERFS", "Color": [255, 255, 255], "BgColor": [139, 69, 19]},
+          {"Type": "Text", "Text": "• Quests 1-10 are now much easier to complete so newer players can catch up faster!", "Size": 16}
         ]
       },
       {
-        "SectionTitle": "🛠️ Bug Fixes",
+        "SectionTitle": "🚀 Blackhole Obby Balance Changes",
         "Items": [
-          {"Type": "Text", "Text": "• Fixed an issue where the Chat filter feature was breaking.", "Size": 16},
-          {"Type": "Text", "Text": "• Patched a collision bug with the Contest Bear NPCs.", "Size": 16},
-          {"Type": "Text", "Text": "• Special thanks to @Omarplanet1 for optimizing the game!", "Size": 16}
-        ]
-      },
-      {
-        "SectionTitle": "🔮 What's Next?",
-        "Items": [
-          {"Type": "Text", "Text": "• A Familiar Face emerges!", "Size": 16},
-          {"Type": "Image", "Title": "It's you??", "ImageID": "rbxassetid://1234567890", "Description": "\"BBM is here...\"", "BgColor": [40, 40, 40]},
-          {"Type": "Image", "Title": "All 12 Event eggs", "ImageID": "rbxassetid://122123173691440", "Description": "\"The Full Egg Family Tree is coming soon!\""}
+          {"Type": "Header", "Text": "😉 EASY MODE CHANGES", "Color": [255, 255, 255], "BgColor": [75, 180, 75]},
+          {"Type": "Text", "Text": "• Fixed and nerfed some annoying jumps to make the obby easier overall.", "Size": 16},
+          {"Type": "Text", "Text": "• Slowed down the spinning lasers so they are easier to dodge.", "Size": 16},
+          
+          {"Type": "Header", "Text": "😈 HARD MODE CHANGES", "Color": [255, 255, 255], "BgColor": [200, 30, 30]},
+          {"Type": "Text", "Text": "• Removed a lot of lasers to make the path less cluttered.", "Size": 16},
+          {"Type": "Text", "Text": "• Added a few new shortcuts for speedrunners!", "Size": 16}
         ]
       }
     ],
-    "FooterText": "🐝 Easter Finale coming soon!"
+    "FooterText": "🐝 Enjoy Easter Finale!"
   },
   {
-    "Name": "Inventory",
+    "Name": "🎒 Inventory Update!",
     "Version": "Pre Alpha V.0.4",
     "SortOrder": 8,
     "Title": "Easter Part 3 in disguise!",
@@ -75,8 +200,7 @@
         "SectionTitle": "Update Log improvement!",
         "Items": [
           {"Type": "Text", "Text": "• New Update log lol.", "Size": 18},
-          {"Type": "Text", "Text": "• Update log has been moved to <font color=\"#FFD700\">Extras</font> tab in<b><font color=\"#FFD700\"> Settings GUI.</font></b>", "Size": 18}
-
+          {"Type": "Text", "Text": "• Update log has been moved to <font color=\"#FFD700\">Extras</font> tab in <b><font color=\"#FFD700\">Settings GUI.</font></b>", "Size": 18}
         ]
       },
       {
@@ -91,25 +215,20 @@
       },
       {
         "SectionTitle": "🏷️ Nametag Overhaul & Leaderboard Rewards",
-         "Items": [
-           {"Type": "Text", "Text": "• <b><font color=\"#FFD700\">41 Unique Nametags</font></b> now available, organized into 7 categories: Common, Uncommon, Rare, <b>Legendary</b>, Event, <b>Exclusive</b>, and <b>Special</b>!", "Size": 16},
-           {"Type": "Text", "Text": "• 🏷️ Here are some of the nametag! 🏷️ ", "Size": 16},
-           {"Type": "Image", "Title": "67 Nametag", "ImageID": "rbxassetid://132046231946290", "Description": "\"Did someone say 67?\"", "BgColor": [243, 207, 155]},
-           {"Type": "Text", "Text": "• <b><font color=\"#FFD700\">🏆 Exclusive Leaderboard Nametag </font></b>", "Size": 20},
-           {"Type": "Image", "Title": "Wealthy Millionare Nametag", "ImageID": "rbxassetid://99924532009980", "Description": "\"Given to Top 25 of the Donation leaderboard.\"", "BgColor": [243, 207, 155]},
-           {"Type": "Image", "Title": "Speed Clicker Nametag", "ImageID": "rbxassetid://131551835140967", "Description": "\"Given to Top 25 of the Clicks leaderboard.\"", "BgColor": [243, 207, 155]},
-           {"Type": "Image", "Title": "Eggcellent Nametag", "ImageID": "rbxassetid://111164626915979", "Description": "\"Given to Top 25 of the Egg leaderboard.\"", "BgColor": [243, 207, 155]},
-           {"Type": "Image", "Title": "Paradox Nametag", "ImageID": "rbxassetid://105774908669519", "Description": "\"Given to Top 25 of the Playtime leaderboard.\"", "BgColor": [243, 207, 155]},
-           
+        "Items": [
+          {"Type": "Text", "Text": "• <b><font color=\"#FFD700\">41 Unique Nametags</font></b> now available, organized into 7 categories: Common, Uncommon, Rare, <b>Legendary</b>, Event, <b>Exclusive</b>, and <b>Special</b>!", "Size": 16},
+          {"Type": "Text", "Text": "• 🏷️ Here are some of the nametags! 🏷️", "Size": 16},
+          {"Type": "Image", "Title": "67 Nametag", "ImageID": "rbxassetid://132046231946290", "Description": "\"Did someone say 67?\"", "BgColor": [243, 207, 155]},
+          {"Type": "Text", "Text": "• <b><font color=\"#FFD700\">🏆 Exclusive Leaderboard Nametags</font></b>", "Size": 20},
+          {"Type": "Image", "Title": "Wealthy Millionaire Nametag", "ImageID": "rbxassetid://99924532009980", "Description": "\"Given to Top 25 of the Donation leaderboard.\"", "BgColor": [243, 207, 155]},
+          {"Type": "Image", "Title": "Speed Clicker Nametag", "ImageID": "rbxassetid://131551835140967", "Description": "\"Given to Top 25 of the Clicks leaderboard.\"", "BgColor": [243, 207, 155]},
+          {"Type": "Image", "Title": "Eggcellent Nametag", "ImageID": "rbxassetid://111164626915979", "Description": "\"Given to Top 25 of the Egg leaderboard.\"", "BgColor": [243, 207, 155]},
+          {"Type": "Image", "Title": "Paradox Nametag", "ImageID": "rbxassetid://105774908669519", "Description": "\"Given to Top 25 of the Playtime leaderboard.\"", "BgColor": [243, 207, 155]},
           {"Type": "Text", "Text": "• <b>Speed Clicker</b>: Top 25 Clicks | <b>Wealthy Millionaire</b>: Top 25 Donators | <b>Eggcellent</b>: Top 25 Egg Makers | <b>Paradox</b>: Top 25 Playtime", "Size": 15},
           {"Type": "Text", "Text": "• <b><font color=\"#FF0000\">ERR_404</font></b>: [CRITICAL] System failure detected... (Admin Manual)", "Size": 15},
-    
           {"Type": "Text", "Text": "• <b>✨ Special Tags</b>", "Size": 18},
-          {"Type": "Text", "Text": "• <b>Alpha</b>: OG! (Joined before Part 3) | <b>Bees</b>: Group Exclusive!", "Size": 15},
-          {"Type": "Text", "Text": "• <b>Master</b>: Top 5 in ANY Leaderboard | <b>Legend</b>: Top 5 in at least 2 categories!", "Size": 15},
-    
-          {"Type": "Image", "Title": "Tag Preview Showcase", "ImageID": "rbxassetid://125717412075936", "Description": "\"A sneak peek at our new UI showcasing these rare titles!\"", "BgColor": [128, 187, 219]},
-    
+          {"Type": "Text", "Text": "• <b>Alpha</b>: OG! (Given to anyone who joined before Easter Part 3) | <b>Bees</b>: Group Exclusive!", "Size": 15},
+          {"Type": "Text", "Text": "• <b>Master</b>: Top 15 in ANY Leaderboard | <b>Legend</b>: Top 5 in at least 2 categories!", "Size": 15},   
           {"Type": "Text", "Text": "• And there is <b><font color=\"#00FF00\">much more</font></b> to be obtained through Quests, Achievements, and Secret Codes! Keep exploring!", "Size": 16}
         ]
       },
@@ -119,7 +238,7 @@
           {"Type": "Image", "Title": "New Portal Emerges in World 3!", "ImageID": "rbxassetid://126620609596422", "Description": "\"Talk to the Scarecrow NPC to begin the new challenge!\"", "BgColor": [107, 50, 124]},
           {"Type": "Image", "Title": "Choose your own path!", "ImageID": "rbxassetid://122290567292370", "Description": "\"Whatever you choose determines your destiny...\"", "BgColor": [193, 223, 240]},
           {"Type": "Image", "Title": "Select Difficulty!", "ImageID": "rbxassetid://118543388903140", "Description": "\"Easy or Hard\"", "BgColor": [236, 236, 236]},
-          {"Type": "Text", "Text": "• Defeat harder modes for better rewards and a massive EXP multiplier!", "Size": 16}
+          {"Type": "Text", "Text": "• Defeat harder modes for better rewards!", "Size": 16}
         ]
       },
       {
@@ -128,6 +247,15 @@
           {"Type": "Text", "Text": "• New Lobby Again? Yes! We've fully optimized the spawn area for better performance.", "Size": 16},
           {"Type": "Text", "Text": "• Huge thanks to Omar for helping re-design the map layout structure!", "Size": 16},
           {"Type": "Image", "Title": "A Fresh Look", "ImageID": "rbxassetid://125717412075936", "Description": "\"Enjoy the new scenery and hidden secrets scattered around.\"", "BgColor": [128, 187, 219]}
+        ]
+      },
+      {
+        "SectionTitle": "💘 Valentines Event Reward!",
+        "Items": [
+          {"Type": "Text", "Text": "• Previous Event Reward has been given out!", "Size": 16},
+          {"Type": "Text", "Text": "• Top 10 Receives a Valentines Planter!", "Size": 16},
+          {"Type": "Text", "Text": "• Top 3 Receives their own nametag!", "Size": 16},
+          {"Type": "Image", "Title": "Here's a Look at Our Top 3", "ImageID": "rbxassetid://130911380590693", "Description": "\"Congrats to Brood (1st), Bhk (2nd), nasaapollo09 (3rd)\"", "BgColor": [128, 187, 219]}
         ]
       },
       {
@@ -148,7 +276,7 @@
       {
         "SectionTitle": "🔮 What's Next?",
         "Items": [
-          {"Type": "Image", "Title": "Easter Finale!", "ImageID": "rbxassetid://122123173691440", "Description": "\"The Final Journey is coming soon!\""},
+          {"Type": "Image", "Title": "Easter Finale!", "ImageID": "rbxassetid://122123173691440", "Description": "\"The Final Journey is coming soon!\"", "BgColor": [40, 40, 40]},
           {"Type": "Image", "Title": "????", "ImageID": "rbxassetid://71961913510293", "Description": "\"BBM is here...\"", "BgColor": [245, 205, 48]}
         ]
       }
